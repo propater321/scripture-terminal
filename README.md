@@ -15,6 +15,8 @@ Read passages, browse summaries and native sections, follow connections, compare
 
 ## Quick start
 
+For a complete walkthrough, see the **[local setup and data guide](docs/setup.md)**. Coding agents should start with **[AGENTS.md](AGENTS.md)**.
+
 This initial source release is validated on **Linux x64**. Use **Bun 1.4.4**, **Python 3.12+**, a UTF-8 terminal of at least **60 columns × 18 rows**, and **FriBidi** for Hebrew/Aramaic display. On Debian/Ubuntu the library package is `libfribidi0`; on Arch it is `fribidi`. Other operating systems have not been validated.
 
 ```sh
