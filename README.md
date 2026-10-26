@@ -5,7 +5,7 @@
 
 **Read, explore, and ask questions about the Bible and Jewish texts in your terminal.**
 
-Scripture Terminal is a native terminal workspace for reading, exploring and asking questions about the Bible and Jewish texts, built with Bun, React, OpenTUI and SQLite. It uses **hybrid keyword + vector search**: SQLite FTS5/BM25 for keyword matching, optional local FastEmbed/ONNX embeddings for meaning search, reciprocal rank fusion to combine results, and optional cross-encoder reranking. Vectors are stored in SQLite and searched locally with NumPy; **FrankenSearch is not integrated**. Reading and local search run on the CPU without an account; optional Codex Ask generates cited answers from retrieved passages.
+Scripture Terminal is a native terminal workspace for reading, exploring and asking questions about the Bible and Jewish texts, built with Bun, React, OpenTUI and SQLite. It uses **hybrid keyword + vector search**: SQLite FTS5/BM25 for keyword matching, optional local FastEmbed/ONNX embeddings for meaning search, reciprocal rank fusion to combine results, and optional cross-encoder reranking. Vectors are stored in SQLite and searched locally with NumPy. Reading and local search run on the CPU without an account; optional Codex Ask generates cited answers from retrieved passages.
 
 ![Scripture Terminal showing Bible reading, search results, parallel translation and the Atlas heatmap](docs/images/read.png)
 
