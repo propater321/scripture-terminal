@@ -1,0 +1,2034 @@
+{
+  "library": "mishnah",
+  "name": "Mishnah",
+  "retrieved": "2026-10-26T11:24:26Z",
+  "sources": [
+    {
+      "work": "Mishnah Berakhot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Berakhot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Berakhot-original.json",
+      "sha256": "473c62e388ed2d7e8b60482474a1f7ec921bd7fec4c12599736966a878854ead"
+    },
+    {
+      "work": "Mishnah Berakhot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Berakhot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Berakhot-english.json",
+      "sha256": "e83a7879209b5d9f2bfc41d547bd95ec7a94be9b5fa02360255a1659812330a1"
+    },
+    {
+      "work": "Mishnah Peah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Peah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Peah-original.json",
+      "sha256": "d2c5ebbdd8a1f202f07630a46097f37944da8c264b88ac52a21f4c5e7c448378"
+    },
+    {
+      "work": "Mishnah Peah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Peah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Peah-english.json",
+      "sha256": "205b903a2b08394ccc6eb472da72ec194bcd27a6b4060a07e1d1d38ae7c15309"
+    },
+    {
+      "work": "Mishnah Demai",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Demai/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Demai-original.json",
+      "sha256": "2099ebb3cea7662dd6c3d0a9c7fa00b8a80256b997cc2824823daf2fe70084ba"
+    },
+    {
+      "work": "Mishnah Demai",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Demai/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Demai-english.json",
+      "sha256": "ab275973cfbd6db9316a39b348951d243fee9bad22df474ae30f0b612eee6c8c"
+    },
+    {
+      "work": "Mishnah Kilayim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Kilayim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kilayim-original.json",
+      "sha256": "b697337a243a15af2d195f757f1cdb1020ba3f0176899c6c8c2eb74c176eaa5a"
+    },
+    {
+      "work": "Mishnah Kilayim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Kilayim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kilayim-english.json",
+      "sha256": "d3cef83994fe5e9e981d4243ee17b5b9080946e5280c2e885d86eb784614a19d"
+    },
+    {
+      "work": "Mishnah Sheviit",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Sheviit/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sheviit-original.json",
+      "sha256": "597ea95f5a49eaeec603413d8b5b5ed1c7ab8d7fa2467aae1afb7f5bed42e5d1"
+    },
+    {
+      "work": "Mishnah Sheviit",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Sheviit/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sheviit-english.json",
+      "sha256": "fbc03390217473c210193c651d31cea1d4aeb1dce88f52933a38fee4a7f33fd3"
+    },
+    {
+      "work": "Mishnah Terumot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Terumot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Terumot-original.json",
+      "sha256": "aaf60d869030376f71d20dc09517801f793c5f24db5b2f4f3bdc2549d2fc105b"
+    },
+    {
+      "work": "Mishnah Terumot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Terumot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Terumot-english.json",
+      "sha256": "43376f1c0d82f9f879d198310e7d2a474de90a3792bedd2466a9f35060b6c5af"
+    },
+    {
+      "work": "Mishnah Maasrot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Maasrot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Maasrot-original.json",
+      "sha256": "79b570b82c3a2bc30b23ff724595d186302a4ad14ac3c027c1041eb6cae027d9"
+    },
+    {
+      "work": "Mishnah Maasrot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Maasrot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Maasrot-english.json",
+      "sha256": "5f0d05366fa46e04099bc9f486b5e0baebb7f6e4b55fd46bf4770486dfa1724f"
+    },
+    {
+      "work": "Mishnah Maaser Sheni",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Maaser%20Sheni/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Maaser_Sheni-original.json",
+      "sha256": "5e17409f701c9f4b41bf5f5e963cb666c1d221af7b08bce1ba6a6d20b0d7b4ce"
+    },
+    {
+      "work": "Mishnah Maaser Sheni",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Maaser%20Sheni/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Maaser_Sheni-english.json",
+      "sha256": "5a8e7038ff15212ec5a390b934f53391ca1bcf5352ec8fb5079f0288be5ea410"
+    },
+    {
+      "work": "Mishnah Challah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Challah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Challah-original.json",
+      "sha256": "7d9f02af9d79b7c41d70ec534ed21c277a504d767766c7f727a439e05bc7a3c7"
+    },
+    {
+      "work": "Mishnah Challah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Challah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Challah-english.json",
+      "sha256": "e4649e77a5585aaca9c22e1bca6667fae58db070813f956d2920f704a77cf889"
+    },
+    {
+      "work": "Mishnah Orlah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Orlah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Orlah-original.json",
+      "sha256": "698b363a4bdc810e384fc9eb366bf88ec8b260dd4af31c4e19927e412b52a2ff"
+    },
+    {
+      "work": "Mishnah Orlah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Orlah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Orlah-english.json",
+      "sha256": "c1f377866aa521fba4af43f1d377e923d4a34d534c1078837887513ed3d29148"
+    },
+    {
+      "work": "Mishnah Bikkurim",
+      "edition": "original",
+      "versionTitle": "Version of the Gemara - vocalized",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH002036659",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Bikkurim/Hebrew/Version%20of%20the%20Gemara%20-%20vocalized.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bikkurim-original.json",
+      "sha256": "bd3ab72c7e5130d1c35086e50c9a80e6470ceeb14354ecb4b7b21052f8262be3"
+    },
+    {
+      "work": "Mishnah Bikkurim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Zeraim/Mishnah%20Bikkurim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bikkurim-english.json",
+      "sha256": "cd7b007389a2ae087c2f5efa014669bdde29e9629fd8a56016d64066adbc5726"
+    },
+    {
+      "work": "Mishnah Shabbat",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Shabbat/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shabbat-original.json",
+      "sha256": "a577cc3cb47ec97bbdf1459c066be762eefa7f6535301d7e861aac733df99f9e"
+    },
+    {
+      "work": "Mishnah Shabbat",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Shabbat/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shabbat-english.json",
+      "sha256": "491da72c55b49653ca381b59fcfaf9d6a332060c4cff916199f79bca90a3af89"
+    },
+    {
+      "work": "Mishnah Eruvin",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Eruvin/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Eruvin-original.json",
+      "sha256": "d07a9a45061b601bb0d8346fd928b972fd13ff30ddaf9daf38b907f84d7bf439"
+    },
+    {
+      "work": "Mishnah Eruvin",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Eruvin/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Eruvin-english.json",
+      "sha256": "c160a6a913209f0f6e13bfb266edd764eb4d986744f51e08aa0f05ec8c07b6c0"
+    },
+    {
+      "work": "Mishnah Pesachim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Pesachim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Pesachim-original.json",
+      "sha256": "9db31d3d38bfe23ea93145075f7dd84bca99150275385e96a55691703e36dd49"
+    },
+    {
+      "work": "Mishnah Pesachim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Pesachim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Pesachim-english.json",
+      "sha256": "26579bd1dd433d102b865f7b46742bea622faaff9c5e06d62cf39e49463e5304"
+    },
+    {
+      "work": "Mishnah Shekalim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Shekalim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shekalim-original.json",
+      "sha256": "cbfff21b46f1cda52717382601f9a3d052fab572090c452ea3d8689bbda64326"
+    },
+    {
+      "work": "Mishnah Shekalim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Shekalim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shekalim-english.json",
+      "sha256": "7c4009b5eb4825d6edf65afe9a109a5d353876c53cb451494e074b783c5165df"
+    },
+    {
+      "work": "Mishnah Yoma",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Yoma/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yoma-original.json",
+      "sha256": "b1f737b0e35e8a5ac63677d91126f5dd398ec9e26d181b8874f5ad254d8272a7"
+    },
+    {
+      "work": "Mishnah Yoma",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Yoma/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yoma-english.json",
+      "sha256": "c471f88ace167e9946405cdcf29dd9befdddfa735cb8bd8318e5254c5084a91f"
+    },
+    {
+      "work": "Mishnah Sukkah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Sukkah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sukkah-original.json",
+      "sha256": "212dc851e96d575f0a2a22edd9fc095dc9735bf02a09436a8d7a9ddf00eaa27e"
+    },
+    {
+      "work": "Mishnah Sukkah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Sukkah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sukkah-english.json",
+      "sha256": "4bd0c797ab488f4f87dde6f092ceabfb3979e0c21b96dfd5e8c88b165730076e"
+    },
+    {
+      "work": "Mishnah Beitzah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Beitzah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Beitzah-original.json",
+      "sha256": "8b1847afab1bbc48fedf77f1850399ddbac30cb9e4425328590f15eb85d99d2a"
+    },
+    {
+      "work": "Mishnah Beitzah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Beitzah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Beitzah-english.json",
+      "sha256": "ec3002ecc942711cd3ee4010bfe8a5fece806e6d292fdca353e95dfa08455ac0"
+    },
+    {
+      "work": "Mishnah Rosh Hashanah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Rosh%20Hashanah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Rosh_Hashanah-original.json",
+      "sha256": "08a675e2e68f3b9c267fa2f068aaa9baf4cf8044747c51b4a729428044fdf35a"
+    },
+    {
+      "work": "Mishnah Rosh Hashanah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Rosh%20Hashanah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Rosh_Hashanah-english.json",
+      "sha256": "6d0626349919a627400eeb70bf2fc4e2467d94971c45b5fbd77bed869034ff2a"
+    },
+    {
+      "work": "Mishnah Ta'anit",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Ta%27anit/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Ta'anit-original.json",
+      "sha256": "fc7762537a8a4d18e4e823899cd861578d0c8c241001a29ebe5bbc31e4990973"
+    },
+    {
+      "work": "Mishnah Ta'anit",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Ta%27anit/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Ta'anit-english.json",
+      "sha256": "e3596dbb5cdf1e576c8b5f3713c79e98371618c768435e3d116ad931f87c2943"
+    },
+    {
+      "work": "Mishnah Megillah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Megillah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Megillah-original.json",
+      "sha256": "3bc87a6f3dddbce6eeb642bca452acff103a93496d7367c809e9ed4457b9579e"
+    },
+    {
+      "work": "Mishnah Megillah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Megillah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Megillah-english.json",
+      "sha256": "bb814019789173552a509fe4e8c4dada4cf647496a119b0616e90df26e12d33c"
+    },
+    {
+      "work": "Mishnah Moed Katan",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Moed%20Katan/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Moed_Katan-original.json",
+      "sha256": "777a6c8cfbf43b11961bd86a4d8e9351e438bfd50a8abae08fc558369c27967e"
+    },
+    {
+      "work": "Mishnah Moed Katan",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Moed%20Katan/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Moed_Katan-english.json",
+      "sha256": "321d9b12fb2ca70a5cbfde02fbfe102426e9ebe3f5cecbeab8cd9bee49e5588e"
+    },
+    {
+      "work": "Mishnah Chagigah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Chagigah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Chagigah-original.json",
+      "sha256": "e3f638175ec15f06169c8b98845af3d943e0c7162d6abbec837d1e9880fbcaf3"
+    },
+    {
+      "work": "Mishnah Chagigah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Moed/Mishnah%20Chagigah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Chagigah-english.json",
+      "sha256": "01bc38744fc71cffe0c825fa43a0ac863f1927ad2a52d2251c0fb2443d6608bb"
+    },
+    {
+      "work": "Mishnah Yevamot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Yevamot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yevamot-original.json",
+      "sha256": "08d91ef231bbcfb8b345ac8a0569a4dd2a64fa9a2a2d2475524d5af69b98832c"
+    },
+    {
+      "work": "Mishnah Yevamot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Yevamot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yevamot-english.json",
+      "sha256": "23de9ee49534358ab734a80f1d133d8d7257b0be9cbe2502bc80651dada26279"
+    },
+    {
+      "work": "Mishnah Ketubot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Ketubot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Ketubot-original.json",
+      "sha256": "dda5228201788297cc1e0209a773e3b1fd2cf12c77b10f70bb9fbb11c833fa3f"
+    },
+    {
+      "work": "Mishnah Ketubot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Ketubot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Ketubot-english.json",
+      "sha256": "6a6dcfde16e9949f98ce09202e04ec22c3efa7a660a9eaf540856eefd1e32790"
+    },
+    {
+      "work": "Mishnah Nedarim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Nedarim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Nedarim-original.json",
+      "sha256": "b9e85b3344a494b0ac80be60b0283053526e1d579feb464b69fe4f5b73a8963a"
+    },
+    {
+      "work": "Mishnah Nedarim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Nedarim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Nedarim-english.json",
+      "sha256": "69bb1bea9da66b570b2b01b4512d8ed4055f716af340515c8a232a3acb33ff61"
+    },
+    {
+      "work": "Mishnah Nazir",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Nazir/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Nazir-original.json",
+      "sha256": "f7b35ebb68f35f33713e84de7d484e1afb8f51e2b124730eb239127e689ec750"
+    },
+    {
+      "work": "Mishnah Nazir",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Nazir/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Nazir-english.json",
+      "sha256": "1115b6715cf256f4bb2847c0380f86c55ea35dafb70b87e82c38c1e1f860e71f"
+    },
+    {
+      "work": "Mishnah Sotah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Sotah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sotah-original.json",
+      "sha256": "800f629598821228551015513158a7462a4f5ef7912c95772f6cacf29ef44234"
+    },
+    {
+      "work": "Mishnah Sotah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Sotah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sotah-english.json",
+      "sha256": "5e60812a4c0481834037252e9580b8a25dfe3c6023fbbec3c7a372f2edb6237f"
+    },
+    {
+      "work": "Mishnah Gittin",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Gittin/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Gittin-original.json",
+      "sha256": "cbb9122c0233312803b3b76145877b16d981b997231c29ad683ef25c2bd78708"
+    },
+    {
+      "work": "Mishnah Gittin",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Gittin/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Gittin-english.json",
+      "sha256": "f8fd5576e980faf52217c7f27f2a7f0e82340c2c35954f5bbf0810cbe6a0ed07"
+    },
+    {
+      "work": "Mishnah Kiddushin",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Kiddushin/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kiddushin-original.json",
+      "sha256": "6e544c2b24d255b41cbb2e8b196fb1a262cdf4eeeecaff010418078ace038b9e"
+    },
+    {
+      "work": "Mishnah Kiddushin",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nashim/Mishnah%20Kiddushin/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kiddushin-english.json",
+      "sha256": "938990e899ff024a75251d064f671387ece29f72bce4e65b787536264d735d7c"
+    },
+    {
+      "work": "Mishnah Bava Kamma",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Bava%20Kamma/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Kamma-original.json",
+      "sha256": "d677cf85906a6d855b4898ec6e2190d08501c9e1aa945f2c25c5b2281b804738"
+    },
+    {
+      "work": "Mishnah Bava Kamma",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Bava%20Kamma/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Kamma-english.json",
+      "sha256": "937b7889eefde8e3203594a91f9becf778f95083e2240e16ffe6048296359717"
+    },
+    {
+      "work": "Mishnah Bava Metzia",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Bava%20Metzia/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Metzia-original.json",
+      "sha256": "b0fd07aa8900ad55b03ab9d3df43d38101e6895ebb1c6424c49f37f883ad5552"
+    },
+    {
+      "work": "Mishnah Bava Metzia",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Bava%20Metzia/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Metzia-english.json",
+      "sha256": "c8a5537217b042d32d6eae05c17be23c6d37719b9b05a930470f47e77a5d38f0"
+    },
+    {
+      "work": "Mishnah Bava Batra",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Bava%20Batra/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Batra-original.json",
+      "sha256": "a820f1ad7026934c6a4a219114d400cad4f8fa526eb77f968814e5257c2092af"
+    },
+    {
+      "work": "Mishnah Bava Batra",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Bava%20Batra/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Batra-english.json",
+      "sha256": "a30a49d002acdefa3adc14e71a1fac71ca0420fce28f798ac60f411af8162c7d"
+    },
+    {
+      "work": "Mishnah Sanhedrin",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Sanhedrin/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sanhedrin-original.json",
+      "sha256": "9b2638c68a473d8622f9e0332e8053a69ad1dcc7b51ad7e79c16324d1b90ac00"
+    },
+    {
+      "work": "Mishnah Sanhedrin",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Sanhedrin/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sanhedrin-english.json",
+      "sha256": "e8ba4f9d623c3890de4210addf83a254a7e9dd449b4cd00012efcdaf63c9c794"
+    },
+    {
+      "work": "Mishnah Makkot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Makkot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Makkot-original.json",
+      "sha256": "5388be648dd6fd9c9f1aa6928a72707446b5118e78db5618ad5c53f9382db0b7"
+    },
+    {
+      "work": "Mishnah Makkot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Makkot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Makkot-english.json",
+      "sha256": "29e9e28911f456140998e72f26c68c6ea992e9aa3e87cf4f13d6e788505a7c32"
+    },
+    {
+      "work": "Mishnah Shevuot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Shevuot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shevuot-original.json",
+      "sha256": "3d80976dc2913a5408c66205aecc14c853b338cfbde603bef8082c18276aca45"
+    },
+    {
+      "work": "Mishnah Shevuot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Shevuot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shevuot-english.json",
+      "sha256": "59615aceb9997080aa917661489502a8609e1153e94ccca0d00872b44061cf9d"
+    },
+    {
+      "work": "Mishnah Eduyot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Eduyot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Eduyot-original.json",
+      "sha256": "af5f7401b7a84d5831e5059a2b0677fba2970634c733e16d4e61caf241c77697"
+    },
+    {
+      "work": "Mishnah Eduyot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Eduyot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Eduyot-english.json",
+      "sha256": "7e46818a1ea1bf1d3a19b0db6dbb1c44cfc9d98e54121ebdf4314c185c9f97b8"
+    },
+    {
+      "work": "Mishnah Avodah Zarah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Avodah%20Zarah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Avodah_Zarah-original.json",
+      "sha256": "d80b9b35029e79cc76c3beedc1cffe79b78198578912e4df306fc76c41befac9"
+    },
+    {
+      "work": "Mishnah Avodah Zarah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Avodah%20Zarah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Avodah_Zarah-english.json",
+      "sha256": "682f4554a706b8a743e3dabc38661d6d6fc1e230806fcadea6ecfbc2306ecc3c"
+    },
+    {
+      "work": "Pirkei Avot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Pirkei%20Avot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Pirkei_Avot-original.json",
+      "sha256": "9fb327fbe14f433821bdd50caf4d2df3a3b7fa0025aec97b8f9f3cf25858266d"
+    },
+    {
+      "work": "Pirkei Avot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Pirkei%20Avot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Pirkei_Avot-english.json",
+      "sha256": "e10ef7afe08eab8816545182d673a630344b9f1afdd4f84d2821a64e041a78e8"
+    },
+    {
+      "work": "Mishnah Horayot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Horayot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Horayot-original.json",
+      "sha256": "e220072736296eaa3b8ec2af1653869de7fa0b21e534decc927c80107cfe81a0"
+    },
+    {
+      "work": "Mishnah Horayot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Nezikin/Mishnah%20Horayot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Horayot-english.json",
+      "sha256": "85d97aecb74287128778f98135a231777857db8e5f59e052757e28a413f5c226"
+    },
+    {
+      "work": "Mishnah Zevachim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Zevachim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Zevachim-original.json",
+      "sha256": "137fab4da67ca87d5d802fa21a7a2308684f2c6224056c3887593cf3a46f2858"
+    },
+    {
+      "work": "Mishnah Zevachim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Zevachim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Zevachim-english.json",
+      "sha256": "a2576dee6dc4e085f8135bc8fe269862c69c7b4866c5df1ad831ff3eb9509ded"
+    },
+    {
+      "work": "Mishnah Menachot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Menachot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Menachot-original.json",
+      "sha256": "ee5b48a9a5aad0deef44f7234a8cec383e96f27a92f6fbfcd9d30dc224680f5b"
+    },
+    {
+      "work": "Mishnah Menachot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Menachot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Menachot-english.json",
+      "sha256": "35ab924302f020e6b5bc15cbfa92d9d1939aa55b2003fc3e98a787ae7023daed"
+    },
+    {
+      "work": "Mishnah Chullin",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Chullin/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Chullin-original.json",
+      "sha256": "6e26ff12fa10935d6714b71788d62da00117abe368ca4e2260558edfaa99b2e3"
+    },
+    {
+      "work": "Mishnah Chullin",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Chullin/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Chullin-english.json",
+      "sha256": "ed8f03e66f77433e326ed1bf5631b16f7a3fd8c9a045a727703e7c29c1e1be94"
+    },
+    {
+      "work": "Mishnah Bekhorot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Bekhorot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bekhorot-original.json",
+      "sha256": "4e4104b75cd645341fb77ccad45aeaf4c06b2694706ffd5ab293a697609202ab"
+    },
+    {
+      "work": "Mishnah Bekhorot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Bekhorot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bekhorot-english.json",
+      "sha256": "d9e9a1014d044653c71afa1b08bc2ed6601108bb0a2a5d9fb160ab7d37dc4311"
+    },
+    {
+      "work": "Mishnah Arakhin",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Arakhin/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Arakhin-original.json",
+      "sha256": "97a7611dd6a315ab87337a03359138d938e6d55a535fff56c852c56b9f20e4b7"
+    },
+    {
+      "work": "Mishnah Arakhin",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Arakhin/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Arakhin-english.json",
+      "sha256": "edd0cfcec16068336a95e5e7fd7280f9f1e60e870fda03ca44e4a57f61ce02c8"
+    },
+    {
+      "work": "Mishnah Temurah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Temurah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Temurah-original.json",
+      "sha256": "27c830484c34d83baf083234efd3074b7d55776109171c375495d9ceb2ee2df2"
+    },
+    {
+      "work": "Mishnah Temurah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Temurah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Temurah-english.json",
+      "sha256": "772f5e1c54cc1555cc047ef89ec51044dc9ce50e2609944f0e5c6eb21162cf38"
+    },
+    {
+      "work": "Mishnah Keritot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Keritot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Keritot-original.json",
+      "sha256": "7b289f486b0862741ae1aa6788db496fa8858a9c9bdbb24f5fe5441a02a9bdba"
+    },
+    {
+      "work": "Mishnah Keritot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Keritot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Keritot-english.json",
+      "sha256": "bca9845bc18cf5df2ed5a4735ff56460974a1dbdd67d7f3c64254880893cad00"
+    },
+    {
+      "work": "Mishnah Meilah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Meilah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Meilah-original.json",
+      "sha256": "905f0c2571a8e8e66748262ab7e4a0dedae448af5de99e81d074c1036120b0ca"
+    },
+    {
+      "work": "Mishnah Meilah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Meilah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Meilah-english.json",
+      "sha256": "8e5103cab546425cce7471e0e9e8cae4c2935d2dc0c0faac655785984c856a12"
+    },
+    {
+      "work": "Mishnah Tamid",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Tamid/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tamid-original.json",
+      "sha256": "26581c8ffb6b55986c152ffefa37114b62ae87152f72f0b9a0cd572c310f5b63"
+    },
+    {
+      "work": "Mishnah Tamid",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Tamid/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tamid-english.json",
+      "sha256": "d6afe445fe101c238020a011660082d9807337de28aaf78485a67f08f165d7dd"
+    },
+    {
+      "work": "Mishnah Middot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Middot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Middot-original.json",
+      "sha256": "9c7e1f5e65976b2ddd7aa18d3bbe36e5f4fcc1dffa1d719d9404efff402c9bed"
+    },
+    {
+      "work": "Mishnah Middot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Middot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Middot-english.json",
+      "sha256": "00c1091bc6c0dbe0b991da36e7f123ac785bcbb4ef44d72e4b1237390cbb9f3e"
+    },
+    {
+      "work": "Mishnah Kinnim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Kinnim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kinnim-original.json",
+      "sha256": "433bc169a39e110f2e344a1ab52159c26d1b6f56161dde81d8334f7bfb748c05"
+    },
+    {
+      "work": "Mishnah Kinnim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Kodashim/Mishnah%20Kinnim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kinnim-english.json",
+      "sha256": "688d85eef25185a91751e2c916886fc381870d633367e41384f4ce0573269db6"
+    },
+    {
+      "work": "Mishnah Kelim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Kelim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kelim-original.json",
+      "sha256": "2b1a69b2ce73ec55e77aa21cce457a4674b33e14c177ad5a1af970278759b709"
+    },
+    {
+      "work": "Mishnah Kelim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Kelim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kelim-english.json",
+      "sha256": "3eb4defa91169ed9003cd37e5bc1ca1cddc575bbda9b806d9b855c03be5f63d2"
+    },
+    {
+      "work": "Mishnah Oholot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Oholot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Oholot-original.json",
+      "sha256": "6773c6e24f66af031eb1e9e0059f2748ab132475f56f324c79b5da4e1ed411c0"
+    },
+    {
+      "work": "Mishnah Oholot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Oholot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Oholot-english.json",
+      "sha256": "248e6addc904a8aa43fcef7b552d682e5f740152aa6518eac0192741c16c04c6"
+    },
+    {
+      "work": "Mishnah Negaim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Negaim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Negaim-original.json",
+      "sha256": "83996a44782185ed8ad0112319cb13a23dc701e735f58fd8c6a476e37e5b85dc"
+    },
+    {
+      "work": "Mishnah Negaim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Negaim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Negaim-english.json",
+      "sha256": "9aff64d45471916914a0745aab0974bd87b90b66c2fea27d3146c9d48de3cefc"
+    },
+    {
+      "work": "Mishnah Parah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Parah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Parah-original.json",
+      "sha256": "a6146e4c3675ea79b2936a6f3809096ea979f5ed1ab7ab3c04f95c8d6f0b0511"
+    },
+    {
+      "work": "Mishnah Parah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Parah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Parah-english.json",
+      "sha256": "943882c2b066cbec905566a2e2f23a5ccd2a3032fb3cb83f4b62b7174fa4566d"
+    },
+    {
+      "work": "Mishnah Tahorot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Tahorot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tahorot-original.json",
+      "sha256": "b89359ed2f60b2ef27a15364728ad8cedf0dbee7d63e0ed5853d53667570ee82"
+    },
+    {
+      "work": "Mishnah Tahorot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Tahorot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tahorot-english.json",
+      "sha256": "7a7b8c0c356ee99652657f8f116188bb84c713bfe23b8733b87455f88cbb16c5"
+    },
+    {
+      "work": "Mishnah Mikvaot",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Mikvaot/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Mikvaot-original.json",
+      "sha256": "607d9227c37bf0988617851771382974d9217eea6ab26b683a1c5dcf7e91e9a4"
+    },
+    {
+      "work": "Mishnah Mikvaot",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Mikvaot/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Mikvaot-english.json",
+      "sha256": "3cd60316e390dee505a976c83a40d998f3a6f5bb53710d5595497df7dff78e26"
+    },
+    {
+      "work": "Mishnah Niddah",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Niddah/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Niddah-original.json",
+      "sha256": "b433a51710acd9fec7e656206b382ccf5216341809263ca6069730a581defa08"
+    },
+    {
+      "work": "Mishnah Niddah",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Niddah/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Niddah-english.json",
+      "sha256": "4757cbb54ce517d323c67f8b349ef2aa090076b9993e29347417a86af5a89793"
+    },
+    {
+      "work": "Mishnah Makhshirin",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Makhshirin/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Makhshirin-original.json",
+      "sha256": "21a27c6138bf4c27c081ac27b5fa118075fcfbfd23dba4292c919fb5f7dde7f9"
+    },
+    {
+      "work": "Mishnah Makhshirin",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Makhshirin/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Makhshirin-english.json",
+      "sha256": "5e379e59149be9ec823f0b245d440ae085f01b658575618185e95e5c44bf09b4"
+    },
+    {
+      "work": "Mishnah Zavim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Zavim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Zavim-original.json",
+      "sha256": "1c18a17f9026de735610c92fef3c72b23bca4a8ab03a0e61c7eee180c813d2b7"
+    },
+    {
+      "work": "Mishnah Zavim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Zavim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Zavim-english.json",
+      "sha256": "d5c96456b3e9c825fee8d4aa33eae14879110f6cca1069ff6013953aa4154721"
+    },
+    {
+      "work": "Mishnah Tevul Yom",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Tevul%20Yom/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tevul_Yom-original.json",
+      "sha256": "78ae8924632bec332ee56763ac4bf1ddcefd3571c4c1c222e43f4f75eb84c735"
+    },
+    {
+      "work": "Mishnah Tevul Yom",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Tevul%20Yom/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tevul_Yom-english.json",
+      "sha256": "ca6223fceaecbfffb59d9a6a002ee58162412d62ee3b8adc77cccb0a3237ba69"
+    },
+    {
+      "work": "Mishnah Yadayim",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Yadayim/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yadayim-original.json",
+      "sha256": "0bfce110fd5aeb038c68224eda76829a66e6df19abc01b223701ac580424868a"
+    },
+    {
+      "work": "Mishnah Yadayim",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Yadayim/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yadayim-english.json",
+      "sha256": "e8b3ff980553fef6da0f221fa4566064d1aea414219f31a383970780669b7245"
+    },
+    {
+      "work": "Mishnah Oktzin",
+      "edition": "original",
+      "versionTitle": "Torat Emet 357",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/index.html?downloads",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Oktzin/Hebrew/Torat%20Emet%20357.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Oktzin-original.json",
+      "sha256": "4221dd54ece23ac363c6f5552a9ce4d33b94403761c5d453eb83ba5cb4b389b1"
+    },
+    {
+      "work": "Mishnah Oktzin",
+      "edition": "english",
+      "versionTitle": "Mishnah Yomit by Dr. Joshua Kulp",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://learn.conservativeyeshiva.org/mishnah/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder%20Tahorot/Mishnah%20Oktzin/English/Mishnah%20Yomit%20by%20Dr.%20Joshua%20Kulp.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Oktzin-english.json",
+      "sha256": "33dd1f9262292e69713fad4def0e01ee452d22a5cdc6acbd6ce84ff74c197489"
+    }
+  ],
+  "schemas": [
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Berakhot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Berakhot-schema.json",
+      "sha256": "1e53040bd138c65fb54f9ecdb3faf8c59dc4332b722bb69fdd603dc2d69b206a"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Peah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Peah-schema.json",
+      "sha256": "c2cb972a0f7ad55c9cf16bfb57a477ed482e1fa3316d6834cb66ac60d6c94459"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Demai.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Demai-schema.json",
+      "sha256": "9bdc0aab96b4041acfaf736202d10a6d9b8f828555c57206885f9c9b6aafc2e4"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Kilayim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kilayim-schema.json",
+      "sha256": "507d9b009c92d80e7563f77c2b06c6074069da188975691b41e73e1a8cb0b644"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Sheviit.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sheviit-schema.json",
+      "sha256": "90a811b80832a8d0a57929af2386ea1785af8e5b9bb8832d291082430ddea7a1"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Terumot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Terumot-schema.json",
+      "sha256": "df709ab0e906a64e5443dea3ce837ab8d6f8310e91b1ba294435dacaeaab4b9e"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Maasrot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Maasrot-schema.json",
+      "sha256": "ca07b02cdfc5aa9fedc3fe27c02c8b5a9bc9b6c973a2db07b5f04eb4d744e6c4"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Maaser_Sheni.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Maaser_Sheni-schema.json",
+      "sha256": "95cd9eff40a9be28cf11568e2ebd2618139d34a1231201bcd325b88895180fa1"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Challah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Challah-schema.json",
+      "sha256": "9a96355161f5f725d98fc92a61e962e0752e8053e0ecb493e88c3fcd0852b9d9"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Orlah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Orlah-schema.json",
+      "sha256": "7d599f0179e6d7d555c3854cce52aae123030987d5786513370230b762f44367"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Bikkurim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bikkurim-schema.json",
+      "sha256": "0aa44f579258d59ba49711c00b8302cfc9b923d91da4105d1cd0317555a45698"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Shabbat.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shabbat-schema.json",
+      "sha256": "97bc4d66974c301c273e47cb53402dd29cf46e750ab9b80996b774b0c8aa9135"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Eruvin.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Eruvin-schema.json",
+      "sha256": "b472088e46edea2a4c23bab880b356b6dc75835a3c4d18421f9a5a2742890c05"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Pesachim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Pesachim-schema.json",
+      "sha256": "a52fdc2fdc0f35b48a46c1acc45af36e5e217a270deba5bba6f40fdd0b85f2f7"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Shekalim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shekalim-schema.json",
+      "sha256": "954a8ce1a23b99c84b88cd9df51f1cb7bcd17fc24e9d195f6f2495ac1bb6582e"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Yoma.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yoma-schema.json",
+      "sha256": "38365c518cc5dfddf9ff006803f85182e6f7ec89496b2753b96848fdc82b8527"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Sukkah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sukkah-schema.json",
+      "sha256": "f8f29f564a99f5a0fc61cc894cf27201e3332c2d793ed419a83a049f6fdcdfea"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Beitzah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Beitzah-schema.json",
+      "sha256": "e12c26bd3a29adb9885cd517a9174cc9912f27154b7055cc347feed2979fc023"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Rosh_Hashanah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Rosh_Hashanah-schema.json",
+      "sha256": "c5249d51bceac4827c1f9f1bf3d97830f471cfe0f07d7de8ca9956bd6100750b"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Ta%27anit.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Ta'anit-schema.json",
+      "sha256": "bff41df6633d894c6e088403767e5a34533c2ae71437f2167b327a718971c3cf"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Megillah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Megillah-schema.json",
+      "sha256": "ba4f66d3b0ad2476834b776bfe8c6058db3da32e7dfee5f9972642886b818b16"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Moed_Katan.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Moed_Katan-schema.json",
+      "sha256": "7966d0ed42e33eb6232c65b8afc96352a5cc48eec4f51c6dcf0593126233533c"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Chagigah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Chagigah-schema.json",
+      "sha256": "df452bc9815eaec39a681ddb71389576bf2138a15cfa7d8a6a9bb41aa12a2f46"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Yevamot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yevamot-schema.json",
+      "sha256": "424aca6a2e576947f5ce4b7530ce8d9f048485bc530b3c4aa6c7bf90007d9458"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Ketubot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Ketubot-schema.json",
+      "sha256": "1fab8679929c13d9e65a05759e85c5eb06c00c5af43f65ef34b6e8e00b7528d1"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Nedarim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Nedarim-schema.json",
+      "sha256": "9ce8bea337b56fe276bc6163109ebe81fca7ac544587eefb8d34a198fa1eb9ea"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Nazir.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Nazir-schema.json",
+      "sha256": "1d39d51b6b36a21644dd0ad3665949140882b90b92583bb21ac342ccdba2a46e"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Sotah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sotah-schema.json",
+      "sha256": "fcb750fe9ab342dd408794b922d3fb7ca643901f31ecb2d027cb1457dd575d34"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Gittin.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Gittin-schema.json",
+      "sha256": "4ad2f73c1d6927047a9fc7591be46358456871d2d537191259a23b9a511e0398"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Kiddushin.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kiddushin-schema.json",
+      "sha256": "02454a992599209fd365e3814977a18a4700d3a71c4fe5d8ca49a3ed67e25acc"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Bava_Kamma.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Kamma-schema.json",
+      "sha256": "4b9868ae816cf57a7e63d63e215b717b80f76fc4e7856e11eaa0dfe5286167a3"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Bava_Metzia.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Metzia-schema.json",
+      "sha256": "c1c103f4dbf9d181c62d9649bf68f100b4596671fcb0fcd135f433d3e2a63cd0"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Bava_Batra.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bava_Batra-schema.json",
+      "sha256": "a567889f64967324ef4c6cae6da1979e4097d85c0a49e7cbd8c1c0f10155eaad"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Sanhedrin.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Sanhedrin-schema.json",
+      "sha256": "2fad32d8e800a1f7eff92d2ce9a61efac0004ec43d42f8d8c39395aaf64f2bde"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Makkot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Makkot-schema.json",
+      "sha256": "32ecad8a5317f52f3fde777c89e1d97ebb70595b4f39a872380aec46c348ccbc"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Shevuot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Shevuot-schema.json",
+      "sha256": "e26fdae2f0ce973fac1cbb42bca7faeaf00a371d429dff0604fd19de51c295f0"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Eduyot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Eduyot-schema.json",
+      "sha256": "3d54e4c0b568dfbf3849421dbb2c2a249baa83d77d6a09facb8712a8348a7478"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Avodah_Zarah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Avodah_Zarah-schema.json",
+      "sha256": "69cf840e44e701cf0fa84ef66020ace9fb99fd91a3cd26cfcb0845f8e13075a7"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Pirkei_Avot.json",
+      "file": "data/jewish-source/mishnah/Pirkei_Avot-schema.json",
+      "sha256": "77eee08679c7f36ae7ec05484793748630bbf1ccd639e69f04c1de4c770fb87d"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Horayot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Horayot-schema.json",
+      "sha256": "7477c6c0abd3fe572ea53cde80fcb34011e9372f95621a855edcf02de9c00de9"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Zevachim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Zevachim-schema.json",
+      "sha256": "3214f17b2c2e4aae62b762e035160d56a7a3dc993b73da7a78ff52b8e0e9229b"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Menachot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Menachot-schema.json",
+      "sha256": "0551afecff8361bce07df283ff1ada74f4a72cf79d271656cbef12ebad06f2ad"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Chullin.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Chullin-schema.json",
+      "sha256": "eccbf7e62f1138431e804358113e157d9b6a3e912e019cd7708638fd25c3d210"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Bekhorot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Bekhorot-schema.json",
+      "sha256": "9aca0be67f2142994e8e81e5a0567698192296e6f36e837dcdac108f04fdcfb7"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Arakhin.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Arakhin-schema.json",
+      "sha256": "f8337125a274300c14670c29043875fb90cc1a4518a1601212dadf1e6187391a"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Temurah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Temurah-schema.json",
+      "sha256": "44a0f5dbfbca680181fbee4a5d63bbf60bb88091e73566ba3660c4f6a223baeb"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Keritot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Keritot-schema.json",
+      "sha256": "6fdc9b73ae486d1df6f25d5ed56d1f63749c7d2f423133db0609c6000ec60642"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Meilah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Meilah-schema.json",
+      "sha256": "8a5b0cfbd7ffd57cbe2c829bb97627db415d95bd0a29c37515a9e6f68ae450fe"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Tamid.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tamid-schema.json",
+      "sha256": "8bb707ec080551c2ade067361f8a4243ded31ed9b523d9acb18575d609bde1e8"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Middot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Middot-schema.json",
+      "sha256": "82884730e34e45c130339936ea2bdcf521b08fa3b622bcec472bd0cc56f15300"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Kinnim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kinnim-schema.json",
+      "sha256": "eff4fbca64b434b4aaab8b3806504f72a0e508f21fd5e907894c018ed9ef5379"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Kelim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Kelim-schema.json",
+      "sha256": "0361c05fc13f574f6b49f13e64c4acee4f56d8d46cbae8fd92fa68f414629835"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Oholot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Oholot-schema.json",
+      "sha256": "d73321f60ba5c9da38b2b13077844de86e1296274353384c789aa81e438ba87f"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Negaim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Negaim-schema.json",
+      "sha256": "5db03cc9c93854f167e353130395cac46f7ef60f4a68698923a8b2837ab08066"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Parah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Parah-schema.json",
+      "sha256": "41894823f9a86841dcd9e9552b54d254e1f9f67b82f023e8864c0a23c7e50a58"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Tahorot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tahorot-schema.json",
+      "sha256": "08019fad6e45eb590a77e59fa985fc2c3d918cd259cc054719f412317dd8f800"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Mikvaot.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Mikvaot-schema.json",
+      "sha256": "eeaa7b7c7c4b8df15165f12d9414abba2161ade372813b49858491272f8ade09"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Niddah.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Niddah-schema.json",
+      "sha256": "6bb4c0f415ecf2f793d49400fa7849d263888dcdb24a4db89ccf7457c22d6f78"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Makhshirin.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Makhshirin-schema.json",
+      "sha256": "5c82973171f7dbdcf3a027f9a3f6e3e2c9bd976f57f21996655cfa6117a2f177"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Zavim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Zavim-schema.json",
+      "sha256": "cd661a445adb2865d5bc7e125cdc19b432a2e62f15fc80978dc238445855bebc"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Tevul_Yom.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Tevul_Yom-schema.json",
+      "sha256": "630040970c54f9c09394682024c175471907a35f5970ba939c347eb0eff49ea4"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Yadayim.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Yadayim-schema.json",
+      "sha256": "c153c4c329b24a53c5f1ea53f49286b8f3d6ff6bd4175c70f65bfaa890bde0fb"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mishnah_Oktzin.json",
+      "file": "data/jewish-source/mishnah/Mishnah_Oktzin-schema.json",
+      "sha256": "010088078b861272dbbf56c8f7ed01a989ef329ee0d3280576f566e6ecb91d10"
+    }
+  ],
+  "coverage": {
+    "Mishnah Berakhot": {
+      "original": 57,
+      "english": 57,
+      "segments": 57
+    },
+    "Mishnah Peah": {
+      "original": 69,
+      "english": 69,
+      "segments": 69
+    },
+    "Mishnah Demai": {
+      "original": 53,
+      "english": 53,
+      "segments": 53
+    },
+    "Mishnah Kilayim": {
+      "original": 77,
+      "english": 77,
+      "segments": 77
+    },
+    "Mishnah Sheviit": {
+      "original": 89,
+      "english": 89,
+      "segments": 89
+    },
+    "Mishnah Terumot": {
+      "original": 101,
+      "english": 101,
+      "segments": 101
+    },
+    "Mishnah Maasrot": {
+      "original": 40,
+      "english": 40,
+      "segments": 40
+    },
+    "Mishnah Maaser Sheni": {
+      "original": 57,
+      "english": 57,
+      "segments": 57
+    },
+    "Mishnah Challah": {
+      "original": 38,
+      "english": 38,
+      "segments": 38
+    },
+    "Mishnah Orlah": {
+      "original": 35,
+      "english": 35,
+      "segments": 35
+    },
+    "Mishnah Bikkurim": {
+      "original": 5,
+      "english": 39,
+      "segments": 39
+    },
+    "Mishnah Shabbat": {
+      "original": 139,
+      "english": 139,
+      "segments": 139
+    },
+    "Mishnah Eruvin": {
+      "original": 96,
+      "english": 96,
+      "segments": 96
+    },
+    "Mishnah Pesachim": {
+      "original": 89,
+      "english": 89,
+      "segments": 89
+    },
+    "Mishnah Shekalim": {
+      "original": 52,
+      "english": 52,
+      "segments": 52
+    },
+    "Mishnah Yoma": {
+      "original": 61,
+      "english": 61,
+      "segments": 61
+    },
+    "Mishnah Sukkah": {
+      "original": 53,
+      "english": 53,
+      "segments": 53
+    },
+    "Mishnah Beitzah": {
+      "original": 42,
+      "english": 42,
+      "segments": 42
+    },
+    "Mishnah Rosh Hashanah": {
+      "original": 35,
+      "english": 35,
+      "segments": 35
+    },
+    "Mishnah Ta'anit": {
+      "original": 34,
+      "english": 34,
+      "segments": 34
+    },
+    "Mishnah Megillah": {
+      "original": 33,
+      "english": 33,
+      "segments": 33
+    },
+    "Mishnah Moed Katan": {
+      "original": 24,
+      "english": 24,
+      "segments": 24
+    },
+    "Mishnah Chagigah": {
+      "original": 23,
+      "english": 23,
+      "segments": 23
+    },
+    "Mishnah Yevamot": {
+      "original": 128,
+      "english": 128,
+      "segments": 128
+    },
+    "Mishnah Ketubot": {
+      "original": 111,
+      "english": 111,
+      "segments": 111
+    },
+    "Mishnah Nedarim": {
+      "original": 90,
+      "english": 90,
+      "segments": 90
+    },
+    "Mishnah Nazir": {
+      "original": 60,
+      "english": 60,
+      "segments": 60
+    },
+    "Mishnah Sotah": {
+      "original": 67,
+      "english": 67,
+      "segments": 67
+    },
+    "Mishnah Gittin": {
+      "original": 75,
+      "english": 75,
+      "segments": 75
+    },
+    "Mishnah Kiddushin": {
+      "original": 47,
+      "english": 47,
+      "segments": 47
+    },
+    "Mishnah Bava Kamma": {
+      "original": 79,
+      "english": 79,
+      "segments": 79
+    },
+    "Mishnah Bava Metzia": {
+      "original": 101,
+      "english": 101,
+      "segments": 101
+    },
+    "Mishnah Bava Batra": {
+      "original": 86,
+      "english": 86,
+      "segments": 86
+    },
+    "Mishnah Sanhedrin": {
+      "original": 71,
+      "english": 71,
+      "segments": 71
+    },
+    "Mishnah Makkot": {
+      "original": 34,
+      "english": 34,
+      "segments": 34
+    },
+    "Mishnah Shevuot": {
+      "original": 62,
+      "english": 62,
+      "segments": 62
+    },
+    "Mishnah Eduyot": {
+      "original": 74,
+      "english": 74,
+      "segments": 74
+    },
+    "Mishnah Avodah Zarah": {
+      "original": 50,
+      "english": 50,
+      "segments": 50
+    },
+    "Pirkei Avot": {
+      "original": 108,
+      "english": 108,
+      "segments": 108
+    },
+    "Mishnah Horayot": {
+      "original": 20,
+      "english": 20,
+      "segments": 20
+    },
+    "Mishnah Zevachim": {
+      "original": 101,
+      "english": 101,
+      "segments": 101
+    },
+    "Mishnah Menachot": {
+      "original": 93,
+      "english": 93,
+      "segments": 93
+    },
+    "Mishnah Chullin": {
+      "original": 74,
+      "english": 74,
+      "segments": 74
+    },
+    "Mishnah Bekhorot": {
+      "original": 73,
+      "english": 73,
+      "segments": 73
+    },
+    "Mishnah Arakhin": {
+      "original": 50,
+      "english": 50,
+      "segments": 50
+    },
+    "Mishnah Temurah": {
+      "original": 35,
+      "english": 35,
+      "segments": 35
+    },
+    "Mishnah Keritot": {
+      "original": 43,
+      "english": 43,
+      "segments": 43
+    },
+    "Mishnah Meilah": {
+      "original": 38,
+      "english": 38,
+      "segments": 38
+    },
+    "Mishnah Tamid": {
+      "original": 34,
+      "english": 34,
+      "segments": 34
+    },
+    "Mishnah Middot": {
+      "original": 34,
+      "english": 34,
+      "segments": 34
+    },
+    "Mishnah Kinnim": {
+      "original": 15,
+      "english": 15,
+      "segments": 15
+    },
+    "Mishnah Kelim": {
+      "original": 254,
+      "english": 254,
+      "segments": 254
+    },
+    "Mishnah Oholot": {
+      "original": 134,
+      "english": 134,
+      "segments": 134
+    },
+    "Mishnah Negaim": {
+      "original": 115,
+      "english": 115,
+      "segments": 115
+    },
+    "Mishnah Parah": {
+      "original": 96,
+      "english": 96,
+      "segments": 96
+    },
+    "Mishnah Tahorot": {
+      "original": 92,
+      "english": 92,
+      "segments": 92
+    },
+    "Mishnah Mikvaot": {
+      "original": 71,
+      "english": 71,
+      "segments": 71
+    },
+    "Mishnah Niddah": {
+      "original": 79,
+      "english": 79,
+      "segments": 79
+    },
+    "Mishnah Makhshirin": {
+      "original": 54,
+      "english": 54,
+      "segments": 54
+    },
+    "Mishnah Zavim": {
+      "original": 32,
+      "english": 32,
+      "segments": 32
+    },
+    "Mishnah Tevul Yom": {
+      "original": 26,
+      "english": 26,
+      "segments": 26
+    },
+    "Mishnah Yadayim": {
+      "original": 22,
+      "english": 22,
+      "segments": 22
+    },
+    "Mishnah Oktzin": {
+      "original": 28,
+      "english": 28,
+      "segments": 28
+    }
+  },
+  "works": 63,
+  "books": 63,
+  "transformations": [
+    "HTML formatting flattened for terminal display; source HTML retained.",
+    "Inline edition footnotes separated from main text; original edition text is never machine-translated.",
+    "Native references retained; missing translations are represented as gaps."
+  ]
+}

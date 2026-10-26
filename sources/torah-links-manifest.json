@@ -1,0 +1,943 @@
+{
+  "source": "Sefaria",
+  "url": "https://developers.sefaria.org/reference/get-links",
+  "snapshot": "2026-10-26",
+  "scope": "Torah-to-Torah only; Sefaria numbering",
+  "entries": [
+    {
+      "file": "Genesis-1.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.1?with_text=0&category=Tanakh",
+      "sha256": "f3e0ed2b7ae2c2869f975020922ee14ccef82c6ff2179d7062bd952e2d98a7f1"
+    },
+    {
+      "file": "Genesis-2.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.2?with_text=0&category=Tanakh",
+      "sha256": "06b005c7c039783b76e054e820ecc04dc037c0c31f1e552d0f595945bbfb4391"
+    },
+    {
+      "file": "Genesis-3.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.3?with_text=0&category=Tanakh",
+      "sha256": "b7643d8e8eab8df8824340ac366492720d536a2351ae621abe189cfad1008c50"
+    },
+    {
+      "file": "Genesis-4.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.4?with_text=0&category=Tanakh",
+      "sha256": "df56775098451e2cd702be43e7a8b5c2bb768c9092648fdb0bb2857ee0d1a2af"
+    },
+    {
+      "file": "Genesis-5.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.5?with_text=0&category=Tanakh",
+      "sha256": "5bd08e14532287c8666cb9d52531685dc46c1abf3cd334f6fe23b4a40161c6f6"
+    },
+    {
+      "file": "Genesis-6.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.6?with_text=0&category=Tanakh",
+      "sha256": "9816be3d9b70cb3c27ccf75bda8e99de6e34e5110cda05364bb2353159a5a34b"
+    },
+    {
+      "file": "Genesis-7.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.7?with_text=0&category=Tanakh",
+      "sha256": "b147862e39e19370ed8660c3cb4c9bc79d6ccd0080edc74398983d4ef71eed3e"
+    },
+    {
+      "file": "Genesis-8.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.8?with_text=0&category=Tanakh",
+      "sha256": "0a048f35df3b34eef034f1e212e1f772cdf85cefb2953d052ff5b6718993a71c"
+    },
+    {
+      "file": "Genesis-9.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.9?with_text=0&category=Tanakh",
+      "sha256": "101a9271f32184de38ad3ff2af0c2842f8778689eab382ff168839fd97e4446c"
+    },
+    {
+      "file": "Genesis-10.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.10?with_text=0&category=Tanakh",
+      "sha256": "01aeecf4cc82f49bb31c6c7c4df3bb97968bda3bc273bb519924e7ef5c4521db"
+    },
+    {
+      "file": "Genesis-11.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.11?with_text=0&category=Tanakh",
+      "sha256": "50251b2ff484e869ce2129c034323c16dfbabf08e44f3f6af53aa0aaf4790461"
+    },
+    {
+      "file": "Genesis-12.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.12?with_text=0&category=Tanakh",
+      "sha256": "084950213096ae73f0b6218c4b849f0cca3a99efcd509da1dcfe8e695f63a1e0"
+    },
+    {
+      "file": "Genesis-13.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.13?with_text=0&category=Tanakh",
+      "sha256": "322da920be7b74cf0035a0631ca571e747dafbd73b6f7f361898980dd2de7aaa"
+    },
+    {
+      "file": "Genesis-14.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.14?with_text=0&category=Tanakh",
+      "sha256": "6d428c62294b807ec51ac1424545a9e2cc4191640e686cbe0131d22ea6b482e6"
+    },
+    {
+      "file": "Genesis-15.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.15?with_text=0&category=Tanakh",
+      "sha256": "d34d56479e68ee3e34a6a25a9ca0d92b097aa837d86c54c1d6afafafe3328a2e"
+    },
+    {
+      "file": "Genesis-16.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.16?with_text=0&category=Tanakh",
+      "sha256": "9ec11b7bc02d8ffce76bdb905db499fdf23ebc0dc711783ab2851d96e69ea995"
+    },
+    {
+      "file": "Genesis-17.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.17?with_text=0&category=Tanakh",
+      "sha256": "e726f277935e97e91f30248db52f84ea336a3721a014fe0399964c866d248d72"
+    },
+    {
+      "file": "Genesis-18.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.18?with_text=0&category=Tanakh",
+      "sha256": "93f80741f474b0aa452a0a197a6c96022c0b2661dab971648a0449dccd54c39b"
+    },
+    {
+      "file": "Genesis-19.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.19?with_text=0&category=Tanakh",
+      "sha256": "3f6cdcf88080bdf6bdc969abb524d7df7b234a904d59542061f332debb2961bf"
+    },
+    {
+      "file": "Genesis-20.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.20?with_text=0&category=Tanakh",
+      "sha256": "868dbc1dbdde5969b84964f47a618e6c92e01d6e1c1b4b8a502eb741911ab494"
+    },
+    {
+      "file": "Genesis-21.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.21?with_text=0&category=Tanakh",
+      "sha256": "07ff93203a14d25bdc8e93bf8ea5da1503ea788347d188e70f078fc73acb2835"
+    },
+    {
+      "file": "Genesis-22.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.22?with_text=0&category=Tanakh",
+      "sha256": "a0a9a985c96615d1904b360ee6366a384f9aadea9f9327d0a5faec45aca6fe74"
+    },
+    {
+      "file": "Genesis-23.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.23?with_text=0&category=Tanakh",
+      "sha256": "02c84b08b047ebc99c6577a666eb7235c5aacdbbf04be7db89c87ac9da162bb1"
+    },
+    {
+      "file": "Genesis-24.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.24?with_text=0&category=Tanakh",
+      "sha256": "d39368132d54ce5f374ceea70c5a10bddcb700ec621af48ef2d4ab0b0b23ee0c"
+    },
+    {
+      "file": "Genesis-25.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.25?with_text=0&category=Tanakh",
+      "sha256": "ea04a180ddbbf23176195b70923dc0a5d017fefb8560d68b4e99c3f6da23213b"
+    },
+    {
+      "file": "Genesis-26.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.26?with_text=0&category=Tanakh",
+      "sha256": "56a818f827b7cc1b90ec0c7f81b27decd89f9fc473bd045423b786eae789b35b"
+    },
+    {
+      "file": "Genesis-27.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.27?with_text=0&category=Tanakh",
+      "sha256": "8657705cf6965cc0da9cd0cf1fad2659b629c4766332c4ee8cb552dfbd0477d3"
+    },
+    {
+      "file": "Genesis-28.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.28?with_text=0&category=Tanakh",
+      "sha256": "b793f173622c24bc2472423e1cc58681edafc4e8dd269bb7dcfde96f552385b4"
+    },
+    {
+      "file": "Genesis-29.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.29?with_text=0&category=Tanakh",
+      "sha256": "eb20ace844025d3be58d7de60d8c20acc116436b52dd27f0aacc8a1e0f4b1c40"
+    },
+    {
+      "file": "Genesis-30.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.30?with_text=0&category=Tanakh",
+      "sha256": "6d5a3d4bbf2505a408e849f1979af418a72ef2d50de0b76a98882619efeeaab0"
+    },
+    {
+      "file": "Genesis-31.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.31?with_text=0&category=Tanakh",
+      "sha256": "ef0ac684dc7c2eef932de7765da8600427b4b78d65b30dfc7617dff40346a791"
+    },
+    {
+      "file": "Genesis-32.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.32?with_text=0&category=Tanakh",
+      "sha256": "d4d3374f07d8cdc2d4c69be7df262e46db1ecd003693a7b71a86aab919757f66"
+    },
+    {
+      "file": "Genesis-33.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.33?with_text=0&category=Tanakh",
+      "sha256": "f3d14895ad309cc12fb2da7ce3b41dad5e08e8dc82f9129da0c74a4b3f39ad67"
+    },
+    {
+      "file": "Genesis-34.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.34?with_text=0&category=Tanakh",
+      "sha256": "0a77c52ab391f599ca815706b5ee1a44c43fe1c47a0869eff1d3e8ee320053cf"
+    },
+    {
+      "file": "Genesis-35.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.35?with_text=0&category=Tanakh",
+      "sha256": "e4554fe972fe12b55b7edb05272c7cca662be580d8b0f4e3a4dfc8658c783add"
+    },
+    {
+      "file": "Genesis-36.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.36?with_text=0&category=Tanakh",
+      "sha256": "67a3009e7fad18d92e44963e18b0baca47da57772a82deb42d4ba8cfac3f1db9"
+    },
+    {
+      "file": "Genesis-37.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.37?with_text=0&category=Tanakh",
+      "sha256": "c8307bd8b5e90e477cf257a56fcfc2b38fc6a833ec3df755e1ce894443682798"
+    },
+    {
+      "file": "Genesis-38.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.38?with_text=0&category=Tanakh",
+      "sha256": "c671a028899f87e4014d3fbf64e85008d2a41fb31fda0fe3d5d4dccb1c4f7e90"
+    },
+    {
+      "file": "Genesis-39.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.39?with_text=0&category=Tanakh",
+      "sha256": "8ab3ceb10f3568a4e18291d3c91f919f2c8ebcf53ad540d9a540ff4244a2acec"
+    },
+    {
+      "file": "Genesis-40.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.40?with_text=0&category=Tanakh",
+      "sha256": "a3593899a65fe191b2b4a4c880cc6bf351ccfafab3c65c70cd188457d1f5ed4a"
+    },
+    {
+      "file": "Genesis-41.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.41?with_text=0&category=Tanakh",
+      "sha256": "0be6b9e06474c4e954fd32bab051f95b491f155216144a7e22b0b312e4ac81c2"
+    },
+    {
+      "file": "Genesis-42.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.42?with_text=0&category=Tanakh",
+      "sha256": "3f1e24d28290c5be1bf2f25c89c3173017f669e07fe66d8a434a1f68922cb51f"
+    },
+    {
+      "file": "Genesis-43.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.43?with_text=0&category=Tanakh",
+      "sha256": "5bae06175c5919ccb68a71465bc4fefd3791a621084d2392900cba780bad9dac"
+    },
+    {
+      "file": "Genesis-44.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.44?with_text=0&category=Tanakh",
+      "sha256": "e72c0dae5626a36b93304140c3fd28456c0597c4281726ebff172611fed422b4"
+    },
+    {
+      "file": "Genesis-45.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.45?with_text=0&category=Tanakh",
+      "sha256": "d5049ec859904dcf29783c30e1e2e58984ff2958fb78e59065b24f423ff29255"
+    },
+    {
+      "file": "Genesis-46.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.46?with_text=0&category=Tanakh",
+      "sha256": "7d3529bfc0f6a89c5d8f216bcbed9804ae27f4ecc53c9aa09446ca42ee1d98b1"
+    },
+    {
+      "file": "Genesis-47.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.47?with_text=0&category=Tanakh",
+      "sha256": "b328f95029c4de0ca10b6ca1bb2f031e213a6d997848da1504c8492771e342c5"
+    },
+    {
+      "file": "Genesis-48.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.48?with_text=0&category=Tanakh",
+      "sha256": "85d232890e12e214b1eacf73520b2359a618650fb950fbfbc67ea5e941a53699"
+    },
+    {
+      "file": "Genesis-49.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.49?with_text=0&category=Tanakh",
+      "sha256": "07b067fd5bd7806f45bd60ab91ed8820cc2405bb9192cb3d7ff96351c2ccfb79"
+    },
+    {
+      "file": "Genesis-50.json",
+      "url": "https://www.sefaria.org/api/links/Genesis.50?with_text=0&category=Tanakh",
+      "sha256": "08ce61c436fbe99258b2dde75a6a5a40d3319675989826b8dc32ecb37b299f07"
+    },
+    {
+      "file": "Exodus-1.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.1?with_text=0&category=Tanakh",
+      "sha256": "800340bb5d247423d9d317600e160a91a28db868dbb54f44d9a00ab19b8da254"
+    },
+    {
+      "file": "Exodus-2.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.2?with_text=0&category=Tanakh",
+      "sha256": "b93a0709e5208ba2bef46b5daab158b7b8cc8aaa79f887d37733603fd0dc3820"
+    },
+    {
+      "file": "Exodus-3.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.3?with_text=0&category=Tanakh",
+      "sha256": "426c909ed9acad5060d38d9c34b8ed73fe6479f1eba4d1564900a005ce34e2fd"
+    },
+    {
+      "file": "Exodus-4.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.4?with_text=0&category=Tanakh",
+      "sha256": "20ec948c635f75ca895ff355b31f099b233398781df84f70de1258a2b55840a2"
+    },
+    {
+      "file": "Exodus-5.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.5?with_text=0&category=Tanakh",
+      "sha256": "a862e7d670b3ad8976789bba667168076300c69a5c445f4793a4c80d01ff03ee"
+    },
+    {
+      "file": "Exodus-6.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.6?with_text=0&category=Tanakh",
+      "sha256": "5d3af5ba6025520fdd45234a7bd967584b148eb335f7551fad47cfda1a505f31"
+    },
+    {
+      "file": "Exodus-7.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.7?with_text=0&category=Tanakh",
+      "sha256": "8c7b75d051a29df35b0dec332a1911ceb393cccbf95f29ed0a676739e30be9ed"
+    },
+    {
+      "file": "Exodus-8.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.8?with_text=0&category=Tanakh",
+      "sha256": "e05c9439e35be2ed572a3c67b0d6cab7e83ae7b5a70b1346884927d40cf17d20"
+    },
+    {
+      "file": "Exodus-9.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.9?with_text=0&category=Tanakh",
+      "sha256": "800815a6f27fb0fbf63f889d1e1da4b938e4ab46b3b71f99f7a374a3b63d6215"
+    },
+    {
+      "file": "Exodus-10.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.10?with_text=0&category=Tanakh",
+      "sha256": "2c10634f07e827ba1c08455c7be5c7dcf07dc50f6bc8919cd9e3ccdcca3ea587"
+    },
+    {
+      "file": "Exodus-11.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.11?with_text=0&category=Tanakh",
+      "sha256": "3edbef14073192b8efff42572f4bd03f8da4d6d85e45d6bce23d8d9c433e5308"
+    },
+    {
+      "file": "Exodus-12.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.12?with_text=0&category=Tanakh",
+      "sha256": "a8ae0c39d8678c94f52f32e92fb8d997b3be4b9ad1724c829cf558b1a490cf9d"
+    },
+    {
+      "file": "Exodus-13.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.13?with_text=0&category=Tanakh",
+      "sha256": "caf20366e1dc8179f820bcbf382e8cc434b34c1de0c2328a1d0c79f40899195e"
+    },
+    {
+      "file": "Exodus-14.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.14?with_text=0&category=Tanakh",
+      "sha256": "187bae2ec759c42a81c9545c91647dbf4d6351249012aa8932e478d86c09c8e5"
+    },
+    {
+      "file": "Exodus-15.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.15?with_text=0&category=Tanakh",
+      "sha256": "3aa9527d17ce5ae21c290191d8e3bc1ff555b4c3e806dbb4813cca40378ced2e"
+    },
+    {
+      "file": "Exodus-16.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.16?with_text=0&category=Tanakh",
+      "sha256": "e63d4811ad71699531001a9ce906fad0de6aca27a347bae8df7423558b85ed2f"
+    },
+    {
+      "file": "Exodus-17.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.17?with_text=0&category=Tanakh",
+      "sha256": "2fa3f71d5d26518cd48e102d210bab1e6582339b3683d56f47e69f842339cf24"
+    },
+    {
+      "file": "Exodus-18.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.18?with_text=0&category=Tanakh",
+      "sha256": "6376b59c9e9c1fe568bdfc09cd2e4446c9240b174696ed24654df3c082ada407"
+    },
+    {
+      "file": "Exodus-19.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.19?with_text=0&category=Tanakh",
+      "sha256": "0e5b4e9af8c7f777cb7f03ff3603d7254091f17b824534788d41796763813203"
+    },
+    {
+      "file": "Exodus-20.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.20?with_text=0&category=Tanakh",
+      "sha256": "78186eef4fe9ef8f4bf580e36ef453a2d0310a433c9f33d7fd5c37282b38f771"
+    },
+    {
+      "file": "Exodus-21.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.21?with_text=0&category=Tanakh",
+      "sha256": "c2f02878d3ba98c8f24e670a8c048161f791b572f496b67e01328046daa900c5"
+    },
+    {
+      "file": "Exodus-22.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.22?with_text=0&category=Tanakh",
+      "sha256": "9322007976442a6e6e80cf422201cf0608a60ad13db5d4a042c361e618f2aafa"
+    },
+    {
+      "file": "Exodus-23.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.23?with_text=0&category=Tanakh",
+      "sha256": "860bbe9d122603c140c3ced786adb3d93149a0cba9b5186f799b9807ab8f441f"
+    },
+    {
+      "file": "Exodus-24.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.24?with_text=0&category=Tanakh",
+      "sha256": "5efe073f318fa687cdf673ede722b59909731950e5dfd0de6cd0fa35ffc7f545"
+    },
+    {
+      "file": "Exodus-25.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.25?with_text=0&category=Tanakh",
+      "sha256": "aa3950051ba221821032e9ba964fe35400980a69fd719f04856d2272a15cf565"
+    },
+    {
+      "file": "Exodus-26.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.26?with_text=0&category=Tanakh",
+      "sha256": "afe406884e41d908dfc4a115e1b0faa5f31452e26cc04f734786459cd7d65d2d"
+    },
+    {
+      "file": "Exodus-27.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.27?with_text=0&category=Tanakh",
+      "sha256": "5466e9110f9f3d155c144de7008c1a8dbae4cc15a192dca84516a5d1cc540cc6"
+    },
+    {
+      "file": "Exodus-28.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.28?with_text=0&category=Tanakh",
+      "sha256": "988c360f23f75471463bba393e2e971e7d0d3d218a3736be657ada55bdfb824c"
+    },
+    {
+      "file": "Exodus-29.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.29?with_text=0&category=Tanakh",
+      "sha256": "824e31a80fc3ec0ccc8052474203854b0be1a17d3c3abf234e28847d6868b037"
+    },
+    {
+      "file": "Exodus-30.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.30?with_text=0&category=Tanakh",
+      "sha256": "b9fa8226abe1dd541f04a7f85f88eb6664b988c690000418fbdadc332e1d983e"
+    },
+    {
+      "file": "Exodus-31.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.31?with_text=0&category=Tanakh",
+      "sha256": "98d192c3bf3958b48e74d6ed97726884f2927a8d19c5b3fd8c231b1853dff70c"
+    },
+    {
+      "file": "Exodus-32.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.32?with_text=0&category=Tanakh",
+      "sha256": "d86c5397eef5abf3a0a96ded4b6b93871742484d2b04829df968bd98c68e8f2e"
+    },
+    {
+      "file": "Exodus-33.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.33?with_text=0&category=Tanakh",
+      "sha256": "9a9d308492928c30fee1da2edc23dc90c86dca198f1eff485bdc71a15be03dcf"
+    },
+    {
+      "file": "Exodus-34.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.34?with_text=0&category=Tanakh",
+      "sha256": "3b645d07fdda5788f6686f10756a94b4dd06f5cd9135e1a80602ab2e90089361"
+    },
+    {
+      "file": "Exodus-35.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.35?with_text=0&category=Tanakh",
+      "sha256": "ea7af9498b994a2387e1370b167c522717e98b7f9bc8708e7446e7f41cab64cc"
+    },
+    {
+      "file": "Exodus-36.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.36?with_text=0&category=Tanakh",
+      "sha256": "abdf03bb9476467d4437c2c753efba85d2d15ccdf4da6af822795eaf9dd02d01"
+    },
+    {
+      "file": "Exodus-37.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.37?with_text=0&category=Tanakh",
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "file": "Exodus-38.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.38?with_text=0&category=Tanakh",
+      "sha256": "8425855e7492cc1eda43b36b422c76c61b8032ba47b290eb3cc02dfac821f74a"
+    },
+    {
+      "file": "Exodus-39.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.39?with_text=0&category=Tanakh",
+      "sha256": "3d21253aea1c1a63a2a7732750f68ac2bee59aed584af85829c1ee3d281f76b6"
+    },
+    {
+      "file": "Exodus-40.json",
+      "url": "https://www.sefaria.org/api/links/Exodus.40?with_text=0&category=Tanakh",
+      "sha256": "d33f2d6a69db4020f4bb7611e76dbdac91e646638f61a00d20deacaf4cca93e2"
+    },
+    {
+      "file": "Leviticus-1.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.1?with_text=0&category=Tanakh",
+      "sha256": "57d0f66974b6dad669a4685fe4baf798024b2b0947d4f0e16050d0e56cc6b91c"
+    },
+    {
+      "file": "Leviticus-2.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.2?with_text=0&category=Tanakh",
+      "sha256": "6607bff368e4465df9f8773f8b6502b984511c30dd48f32aac7c7ddee3f1f81c"
+    },
+    {
+      "file": "Leviticus-3.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.3?with_text=0&category=Tanakh",
+      "sha256": "fa4916832761fec4dee96c53c6677e6d331a3aa03a8aca064afabf71558d98d8"
+    },
+    {
+      "file": "Leviticus-4.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.4?with_text=0&category=Tanakh",
+      "sha256": "c4dec8ecf822fa4b8f187e21b4f3e7774a7852c16d02d5a08ca22d533351f5e0"
+    },
+    {
+      "file": "Leviticus-5.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.5?with_text=0&category=Tanakh",
+      "sha256": "fc00d8cc33f78100980bd7f9b6316f9a1896ae5e7d6274004acff39b0b85762b"
+    },
+    {
+      "file": "Leviticus-6.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.6?with_text=0&category=Tanakh",
+      "sha256": "624f323f91d043ece14631fcd5ff8ac9a28cd0efc1ff1d3423a36d6de17173d8"
+    },
+    {
+      "file": "Leviticus-7.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.7?with_text=0&category=Tanakh",
+      "sha256": "3ae81fb7d4fe90a369660eaef698020a507b6f2098d1a223048396839af16067"
+    },
+    {
+      "file": "Leviticus-8.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.8?with_text=0&category=Tanakh",
+      "sha256": "4b214e11f516cc34c895f0bfc2bb66b000515cb17f6b13cc47c7ec6afdf92a5d"
+    },
+    {
+      "file": "Leviticus-9.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.9?with_text=0&category=Tanakh",
+      "sha256": "5331e338ed364601bf4ce55eb84926703ad1b75baf870ea11e83a8f68291490c"
+    },
+    {
+      "file": "Leviticus-10.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.10?with_text=0&category=Tanakh",
+      "sha256": "04370d0bd1c18f6d9090880a7c9779d5824270c6178346ca7622b51a8a515569"
+    },
+    {
+      "file": "Leviticus-11.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.11?with_text=0&category=Tanakh",
+      "sha256": "20b24d282f8b22e2d95f8edb245fbeb45664d672e62e024fef726e1d9bf16460"
+    },
+    {
+      "file": "Leviticus-12.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.12?with_text=0&category=Tanakh",
+      "sha256": "eafa559e63df727021dd871836cedfd004975ec49e09d81eee420dd7350c8139"
+    },
+    {
+      "file": "Leviticus-13.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.13?with_text=0&category=Tanakh",
+      "sha256": "ee9de004e3922a7b0edf99d73a02becc1f0a9863730daab33a6c549afd4bd7e5"
+    },
+    {
+      "file": "Leviticus-14.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.14?with_text=0&category=Tanakh",
+      "sha256": "30da0770553d9304d1aa52364b38ee21b63ac159eeaab71c51b1e81440806801"
+    },
+    {
+      "file": "Leviticus-15.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.15?with_text=0&category=Tanakh",
+      "sha256": "1d42a7b8b0abf0d1261cd7553af9cf23d931b75755d56866805858def59a37ad"
+    },
+    {
+      "file": "Leviticus-16.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.16?with_text=0&category=Tanakh",
+      "sha256": "87f80673dd2ea5e0c984796ce7695f6569d1716da79c59462816c92466a6217e"
+    },
+    {
+      "file": "Leviticus-17.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.17?with_text=0&category=Tanakh",
+      "sha256": "b97784878d99e365d7446d16bb494e14536ac443720763b0dc6f96e5b95051e8"
+    },
+    {
+      "file": "Leviticus-18.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.18?with_text=0&category=Tanakh",
+      "sha256": "4b8d43bcb6d4961b26f14583657b97545d8ce81c05530eb7533a9345141dc726"
+    },
+    {
+      "file": "Leviticus-19.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.19?with_text=0&category=Tanakh",
+      "sha256": "106c8ab2b3f5f44eacc3639a7c5c85eb9b5980b710ec07f3101131424cd55a77"
+    },
+    {
+      "file": "Leviticus-20.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.20?with_text=0&category=Tanakh",
+      "sha256": "1a13dd3313800ba5010da436cb735d209ea28e2adee5f04b1a423d283d9b0ad3"
+    },
+    {
+      "file": "Leviticus-21.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.21?with_text=0&category=Tanakh",
+      "sha256": "913e9ecb7de8eb34541758be29b8d76e55bd575381ba78dd793ae70a2b511359"
+    },
+    {
+      "file": "Leviticus-22.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.22?with_text=0&category=Tanakh",
+      "sha256": "236b81cd387a77ff0efd44eae94ad4fa4af1f2da0f9ec2e51d5eabc15350a1df"
+    },
+    {
+      "file": "Leviticus-23.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.23?with_text=0&category=Tanakh",
+      "sha256": "17dea09a87a83ed3a3b6c7282857131f0247f8d6c79653ca2b3cb8aaf4ae6e63"
+    },
+    {
+      "file": "Leviticus-24.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.24?with_text=0&category=Tanakh",
+      "sha256": "87c84430bfdac4fc212a9498f11727c935d8860415f09db80cae9eaa2e015c94"
+    },
+    {
+      "file": "Leviticus-25.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.25?with_text=0&category=Tanakh",
+      "sha256": "eb637668bb04627db0035bab9590a7f342e32bcf0faab85548e3c1dc21a0d46e"
+    },
+    {
+      "file": "Leviticus-26.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.26?with_text=0&category=Tanakh",
+      "sha256": "d7e1d38068613d512f63838b3fc7edbd5b96c215db52e5a07f40fa07502359b0"
+    },
+    {
+      "file": "Leviticus-27.json",
+      "url": "https://www.sefaria.org/api/links/Leviticus.27?with_text=0&category=Tanakh",
+      "sha256": "8419e98abff3b92344962b81d8040c64341a9d8a18f1c241864efbd72b8d78b4"
+    },
+    {
+      "file": "Numbers-1.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.1?with_text=0&category=Tanakh",
+      "sha256": "6cf29f0aaaa6a6456663e2e61a419cab3d7a6dbb0d415a16e526689b739cef1f"
+    },
+    {
+      "file": "Numbers-2.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.2?with_text=0&category=Tanakh",
+      "sha256": "409150bf337f4055ba0403cfb286d26e7a8507f5e19bb80f349bd30416a7361b"
+    },
+    {
+      "file": "Numbers-3.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.3?with_text=0&category=Tanakh",
+      "sha256": "4cbc46920b7cee0b806b1e60af8b15ead6a43a48e1d53a773683712b05321f8e"
+    },
+    {
+      "file": "Numbers-4.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.4?with_text=0&category=Tanakh",
+      "sha256": "803481e353ab5f0432b075a9ef604e2b2c9c582fa44e46e4b156024a050eea68"
+    },
+    {
+      "file": "Numbers-5.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.5?with_text=0&category=Tanakh",
+      "sha256": "d3311add5c2071b5510b65fef690af81ca82f4b3853c75b209ee3c0c16d5fc99"
+    },
+    {
+      "file": "Numbers-6.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.6?with_text=0&category=Tanakh",
+      "sha256": "dfeead4d189c32318ae1340ac64394c81a25d03e9d17c71af7442f05fecf4347"
+    },
+    {
+      "file": "Numbers-7.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.7?with_text=0&category=Tanakh",
+      "sha256": "f668d1c31fc86b24964d31410039688b77e65a295c32c7b530b09d6518ce3e87"
+    },
+    {
+      "file": "Numbers-8.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.8?with_text=0&category=Tanakh",
+      "sha256": "f63e2c93fdef4dc9beaf1232d79c7df7f5dbfd738cf4115bf7c74396fc386db4"
+    },
+    {
+      "file": "Numbers-9.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.9?with_text=0&category=Tanakh",
+      "sha256": "e5ff14b9ca813e227b365fcb3433c4420794c1113fcdd58cfeb0515f7f2c18da"
+    },
+    {
+      "file": "Numbers-10.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.10?with_text=0&category=Tanakh",
+      "sha256": "d7d6a56de13d85686acaac541d980feb414a3f1b8ede9036a639fca727679a04"
+    },
+    {
+      "file": "Numbers-11.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.11?with_text=0&category=Tanakh",
+      "sha256": "242273850cf547d7506acff8f8a9f12ad621c2012a122d2ae4128cb08abb61a9"
+    },
+    {
+      "file": "Numbers-12.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.12?with_text=0&category=Tanakh",
+      "sha256": "a2bf6b190000fa5af90ff7bb9ef2c77f870cf60290b7ea63af85f23d8d6530df"
+    },
+    {
+      "file": "Numbers-13.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.13?with_text=0&category=Tanakh",
+      "sha256": "54073504cf6bef1eb184ee7c27e1a4736c6a676f9f13e3495678f0ce32e9a91a"
+    },
+    {
+      "file": "Numbers-14.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.14?with_text=0&category=Tanakh",
+      "sha256": "5e30387dce8d3d849e40f5a381122b03f245edcd4c9e863a218009c983930468"
+    },
+    {
+      "file": "Numbers-15.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.15?with_text=0&category=Tanakh",
+      "sha256": "17fd51e55c81d866447a99c34f7ac9ae35bb1ba33315f9ad7346622455d5c687"
+    },
+    {
+      "file": "Numbers-16.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.16?with_text=0&category=Tanakh",
+      "sha256": "f1e80b0be96588e435140073fb1500739de75ffda99d4aadd18f8d1645786cf7"
+    },
+    {
+      "file": "Numbers-17.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.17?with_text=0&category=Tanakh",
+      "sha256": "907057a09785998c33b819537fc135acc0d7cdaea0353385991e6341d418233c"
+    },
+    {
+      "file": "Numbers-18.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.18?with_text=0&category=Tanakh",
+      "sha256": "0ad19c22504097d9cec5f91f97794d98ad418c5e73f1bebd205a4789fc9238c3"
+    },
+    {
+      "file": "Numbers-19.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.19?with_text=0&category=Tanakh",
+      "sha256": "fa9504e12eded4903fad88a85dcd8f6b12dc756c543bfef2fe775d824ae4d590"
+    },
+    {
+      "file": "Numbers-20.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.20?with_text=0&category=Tanakh",
+      "sha256": "262b87c52ffa7308385fd4e21141e2baae17da165a8dbfda6d4c3d5b3f0b161d"
+    },
+    {
+      "file": "Numbers-21.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.21?with_text=0&category=Tanakh",
+      "sha256": "a2807852ba1829917760cb25e536e46ba3396fdbaf3cbb0a57f318de4e8b19f5"
+    },
+    {
+      "file": "Numbers-22.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.22?with_text=0&category=Tanakh",
+      "sha256": "db282c61103ad9a4f0b79d18987f9a557849a0c4db5fc01203446ad1fbe5b755"
+    },
+    {
+      "file": "Numbers-23.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.23?with_text=0&category=Tanakh",
+      "sha256": "139aade258efdda6629851a80f517db681703645c09cf65f8073e490f4592b2b"
+    },
+    {
+      "file": "Numbers-24.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.24?with_text=0&category=Tanakh",
+      "sha256": "210dd988a5158d5928123e18ab599338234fef044aa53aa8e4f83d7d9d33a79b"
+    },
+    {
+      "file": "Numbers-25.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.25?with_text=0&category=Tanakh",
+      "sha256": "55192c03397f37abd8fe40aebee7af40b69e3295294a749c326a4ba835c91061"
+    },
+    {
+      "file": "Numbers-26.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.26?with_text=0&category=Tanakh",
+      "sha256": "c1cffa4a32ada123ab4fcce350d809cd143aca79b7d73f149ad0e62958de518d"
+    },
+    {
+      "file": "Numbers-27.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.27?with_text=0&category=Tanakh",
+      "sha256": "808873f4f073c3dd268db6b0e7d4e6162a0b8ebb53b20a9fef62483a443ba076"
+    },
+    {
+      "file": "Numbers-28.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.28?with_text=0&category=Tanakh",
+      "sha256": "23888f90a758902f3ca73c56786e3862e43bf56a0e35ef526d89782f9f6ddaef"
+    },
+    {
+      "file": "Numbers-29.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.29?with_text=0&category=Tanakh",
+      "sha256": "4acf8c846ae4a9c8061dda53baa294c7fedb420ba299bf62edbc17b6c72e2917"
+    },
+    {
+      "file": "Numbers-30.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.30?with_text=0&category=Tanakh",
+      "sha256": "4de84f80c815bc2a6307787f740163a61d7b4a16876b40c95b1131b6755804a9"
+    },
+    {
+      "file": "Numbers-31.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.31?with_text=0&category=Tanakh",
+      "sha256": "1154ad0a36fd2c9e58850c8f23c68fd91694254613088cb4ebac96dbdc493357"
+    },
+    {
+      "file": "Numbers-32.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.32?with_text=0&category=Tanakh",
+      "sha256": "35ec0cf64938a2ed248dddb5e4624315041a953cebfd46431b58c4c48002bfd8"
+    },
+    {
+      "file": "Numbers-33.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.33?with_text=0&category=Tanakh",
+      "sha256": "f653415976554e578c391ebf5596a6ce0306416bb5b30d81566dadafa4ad2cd8"
+    },
+    {
+      "file": "Numbers-34.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.34?with_text=0&category=Tanakh",
+      "sha256": "e59513ef2576b975985a3b9f68a5c9385abfa1b96012c9cbdf92353fa0f79cdf"
+    },
+    {
+      "file": "Numbers-35.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.35?with_text=0&category=Tanakh",
+      "sha256": "71f5036dd1c7004d88a2deca0f40f2e1d8b315a1b1762d03a3b50dfafcca00f0"
+    },
+    {
+      "file": "Numbers-36.json",
+      "url": "https://www.sefaria.org/api/links/Numbers.36?with_text=0&category=Tanakh",
+      "sha256": "6ab854deb14a54eab36fc4bd2e856f9b6e2c59b269f5395819665c3172badb09"
+    },
+    {
+      "file": "Deuteronomy-1.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.1?with_text=0&category=Tanakh",
+      "sha256": "29fcf81c4863fe59a68d558b25d4157a6f56affb7a50cbc9e24ff4da6c0789e8"
+    },
+    {
+      "file": "Deuteronomy-2.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.2?with_text=0&category=Tanakh",
+      "sha256": "148f0150fe64118b3ff49b0d943ac327db9c719c79966fe22c46cfcc10335865"
+    },
+    {
+      "file": "Deuteronomy-3.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.3?with_text=0&category=Tanakh",
+      "sha256": "fed5003d4f887427e040e0255c9d03c5b9228f3b7613edb00196373c96e9c73a"
+    },
+    {
+      "file": "Deuteronomy-4.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.4?with_text=0&category=Tanakh",
+      "sha256": "4f1eca3a08834dd41ce30a717b2b96e8ebb0315f3cca8415eed59cb02fcf43fd"
+    },
+    {
+      "file": "Deuteronomy-5.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.5?with_text=0&category=Tanakh",
+      "sha256": "c2b563330d2af55b8e7188cb90a5fbf8b3f5422643debee2410cf229350aadbb"
+    },
+    {
+      "file": "Deuteronomy-6.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.6?with_text=0&category=Tanakh",
+      "sha256": "4695aff4e36c883b8d8af5b350e8659e896ad57dd1b4dedab43ed5e1ab81fd78"
+    },
+    {
+      "file": "Deuteronomy-7.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.7?with_text=0&category=Tanakh",
+      "sha256": "3bb615e8b0501b78016abca1dcf12290f0f1025b2509f136791778e480c5caae"
+    },
+    {
+      "file": "Deuteronomy-8.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.8?with_text=0&category=Tanakh",
+      "sha256": "e3a173a79f0d0e59d3a906100d45571c4cb805ac23cbba93cde0d8834661db18"
+    },
+    {
+      "file": "Deuteronomy-9.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.9?with_text=0&category=Tanakh",
+      "sha256": "d1931dc8d9fea1eaaebd23b8c9d5008bd98c498c23437d8d697123ec99b7f92f"
+    },
+    {
+      "file": "Deuteronomy-10.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.10?with_text=0&category=Tanakh",
+      "sha256": "b02e0e84601df5376d28e72158fe2668941ff4fac5c41ab94f45c0cc1dd3477a"
+    },
+    {
+      "file": "Deuteronomy-11.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.11?with_text=0&category=Tanakh",
+      "sha256": "88a9d2f16c4874e10fcd76be135aeb583f82052a8951c4d0c731dd53107c8e14"
+    },
+    {
+      "file": "Deuteronomy-12.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.12?with_text=0&category=Tanakh",
+      "sha256": "03f781b90711085516815f6e59ddfc203b08c8530840615517b5f68b92cd4769"
+    },
+    {
+      "file": "Deuteronomy-13.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.13?with_text=0&category=Tanakh",
+      "sha256": "66ae46ef11e13458fee291aeb6b4a610be45327983511fb4dc0aaea0a78ca333"
+    },
+    {
+      "file": "Deuteronomy-14.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.14?with_text=0&category=Tanakh",
+      "sha256": "b69dbcab212c3eb0a58c5804f43b748d3120b3a02880f9e540fc81a2c9c281e9"
+    },
+    {
+      "file": "Deuteronomy-15.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.15?with_text=0&category=Tanakh",
+      "sha256": "765ec379470dc6e458882e3ee8dc8a47643f6c12baa425fa06aa60e1aaee24c4"
+    },
+    {
+      "file": "Deuteronomy-16.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.16?with_text=0&category=Tanakh",
+      "sha256": "422392228c160f0f904870a56dc2665074059c14b67ad83ba9924e3a6b297350"
+    },
+    {
+      "file": "Deuteronomy-17.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.17?with_text=0&category=Tanakh",
+      "sha256": "54ed4e8804b490df03cab466000a4b47d46b1aae16f1651dbc58f4550f9719a7"
+    },
+    {
+      "file": "Deuteronomy-18.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.18?with_text=0&category=Tanakh",
+      "sha256": "a9c9b734bdac3652fb1a6f4ddfa5d61a366696180d144ed2ee1d83b8a1d8bb1e"
+    },
+    {
+      "file": "Deuteronomy-19.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.19?with_text=0&category=Tanakh",
+      "sha256": "f89422b04f1e8035f0fcc4b39f64a37d4c155d6ba3db261e99b8c6e6978b2bfc"
+    },
+    {
+      "file": "Deuteronomy-20.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.20?with_text=0&category=Tanakh",
+      "sha256": "72ed5fa64f6e74748b870b5a824571ef39aa836b49b0a20fb76885d376241658"
+    },
+    {
+      "file": "Deuteronomy-21.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.21?with_text=0&category=Tanakh",
+      "sha256": "a611c21faff3251a3cee43e5f43760002cf40818f77055ddb185aa4190948cb8"
+    },
+    {
+      "file": "Deuteronomy-22.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.22?with_text=0&category=Tanakh",
+      "sha256": "8b53323428fd7559c6a008b3336aec2b0479384f7890a25bd8f11064de2ab60a"
+    },
+    {
+      "file": "Deuteronomy-23.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.23?with_text=0&category=Tanakh",
+      "sha256": "1771445697beaac98ca76c5e8d71b3541adbf888a6833bd368bc05cdd0002e41"
+    },
+    {
+      "file": "Deuteronomy-24.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.24?with_text=0&category=Tanakh",
+      "sha256": "4f8166dcbfaa6af6175ee372e09e772a838eae1062c83e1d7b7eb7a31521cae3"
+    },
+    {
+      "file": "Deuteronomy-25.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.25?with_text=0&category=Tanakh",
+      "sha256": "251c8b446ff25303197dad3eb3cd105b0b98b22b585b14f87da9724ed550d056"
+    },
+    {
+      "file": "Deuteronomy-26.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.26?with_text=0&category=Tanakh",
+      "sha256": "eacea7a437fbffb254cc975244b6212de8c833d1b56090db27dddceccb0856f1"
+    },
+    {
+      "file": "Deuteronomy-27.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.27?with_text=0&category=Tanakh",
+      "sha256": "85054206f174eb57d596d34e6033eaa375352a111cabb139890637738dd98eae"
+    },
+    {
+      "file": "Deuteronomy-28.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.28?with_text=0&category=Tanakh",
+      "sha256": "225fc5899c0f4ea5a7fb8c63ebbd9681d42e11da1bdfbc1fad7fc2d83782e0c2"
+    },
+    {
+      "file": "Deuteronomy-29.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.29?with_text=0&category=Tanakh",
+      "sha256": "8c7c8356dca5743b31a781dc7c4bb81771c0d05fb6dca467142d1d601673e61d"
+    },
+    {
+      "file": "Deuteronomy-30.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.30?with_text=0&category=Tanakh",
+      "sha256": "f42747a0379545b49eb5fee243e6c367cdd897249fb9d68152043be30e41b29c"
+    },
+    {
+      "file": "Deuteronomy-31.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.31?with_text=0&category=Tanakh",
+      "sha256": "53bd917a108ccda9745226132aada37cd62187d26350044ef8e71f30900b21aa"
+    },
+    {
+      "file": "Deuteronomy-32.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.32?with_text=0&category=Tanakh",
+      "sha256": "13c8c838059926873a0ff2b443a8617636d06ce66bbdb0ee7d90749193866610"
+    },
+    {
+      "file": "Deuteronomy-33.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.33?with_text=0&category=Tanakh",
+      "sha256": "9c5c238fbe9bcd62696de75ec7639ac2840c2f34bf97d22beb089b14c0c04269"
+    },
+    {
+      "file": "Deuteronomy-34.json",
+      "url": "https://www.sefaria.org/api/links/Deuteronomy.34?with_text=0&category=Tanakh",
+      "sha256": "56d0394184639b0838c56e62bb1836703c7e37f15acb8f92eb608dde4a757e32"
+    }
+  ]
+}

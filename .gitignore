@@ -1,0 +1,15 @@
+# Runtime databases, downloaded text, models, bookmarks and reports are private/local.
+/data/
+/node_modules/
+/.venv-search/
+/previews/*
+!/previews/index.html
+/dist/
+/coverage/
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example

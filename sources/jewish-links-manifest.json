@@ -1,0 +1,94 @@
+{
+  "source": "Sefaria bulk connections",
+  "snapshot": "2026-10-26",
+  "url": "https://github.com/Sefaria/Sefaria-Export",
+  "entries": [
+    {
+      "file": "links0.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links0.csv",
+      "sha256": "ae8713338e602fa39bf68a76697d0d0b9cc5a0bef14ed0d880cb66679fd422fd"
+    },
+    {
+      "file": "links1.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links1.csv",
+      "sha256": "3dee7888d4cec014bca8f04770f995e0134629ccc270cac347cf516960e0e949"
+    },
+    {
+      "file": "links2.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links2.csv",
+      "sha256": "63b33018dbb4746583c1fe1097d2f103c0efacec6af8e0c03abf514257999e3d"
+    },
+    {
+      "file": "links3.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links3.csv",
+      "sha256": "a1c22e3afb9a5f9b384023157c8fd035a5759da6133032191341ac0ccd013113"
+    },
+    {
+      "file": "links4.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links4.csv",
+      "sha256": "43b8636ee38870eac518175d52a445caac5923c0fe59a25e59c0601992b1d03c"
+    },
+    {
+      "file": "links5.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links5.csv",
+      "sha256": "05929870d21b1d683d2c2ac25fe8bd29d75e24f462487c478febca68c513ec4d"
+    },
+    {
+      "file": "links6.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links6.csv",
+      "sha256": "766d2c933e8450e8f058700544841fe42994c81d532b5f4897e1dd61e7e0cc9f"
+    },
+    {
+      "file": "links7.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links7.csv",
+      "sha256": "99b42178877ae3f2ccc2f5045624f5840c52dc87436fd3fa32ba5fc69a178230"
+    },
+    {
+      "file": "links8.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links8.csv",
+      "sha256": "b4451fe3c9c082c21a539fe17a340cef3ee0082e164ffb07345384f79cb0e785"
+    },
+    {
+      "file": "links9.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links9.csv",
+      "sha256": "d0acd2a47960a3156a37071ffd5903e11dc3653ead580232b2b861abd068ef57"
+    },
+    {
+      "file": "links10.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links10.csv",
+      "sha256": "fd0428ab30428ef44fea9b642fd6e5a7357c17937124528c996eb43c4c777a7f"
+    },
+    {
+      "file": "links11.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links11.csv",
+      "sha256": "8b5c8c8af0f6530f02621c4bb193a19afa732907b7611108c655314f9b187c05"
+    },
+    {
+      "file": "links12.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links12.csv",
+      "sha256": "7302ecab2c4f3d32ac1c13910567d7989cd8893b2a97c22615640cce352635d7"
+    },
+    {
+      "file": "links13.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links13.csv",
+      "sha256": "275be1d07fc80131e9f68f52ed663796290f720843e0bfef278ba8a010330af3"
+    },
+    {
+      "file": "links14.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links14.csv",
+      "sha256": "cfe0a312ef77c155a2eb76027a63ae6e7cbc62e891ba3fcd61b5c2d1e5015d0e"
+    },
+    {
+      "file": "links15.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links15.csv",
+      "sha256": "9e3c76e9fc385756b7d9dec7e63cbba85652d8dc089f63ba7f2f3451b2129be2"
+    },
+    {
+      "file": "links16.csv",
+      "url": "https://storage.googleapis.com/sefaria-export/links/links16.csv",
+      "sha256": "3a40aeb9c74d8a577e3fe22f21be8c34a0ef81f1c061b751411970ae68b7ae60"
+    }
+  ],
+  "excluded_unavailable_or_broad": 396,
+  "matched_source_links": 31945
+}

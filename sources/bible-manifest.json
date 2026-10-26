@@ -1,0 +1,21 @@
+{
+  "commit": "d9fe1779447717bbfcb578e505b893125cad581c",
+  "sources": [
+    {
+      "translation": "KJV",
+      "url": "https://raw.githubusercontent.com/midvash/bible-data/d9fe1779447717bbfcb578e505b893125cad581c/versions/en/kjv/kjv.json",
+      "sha256": "952c4b97e500261f183afa82d997909139797d6830fe464d1d7b45a7c130397d",
+      "verses": 31102,
+      "license": "Public Domain (upstream metadata)",
+      "metadata": "https://raw.githubusercontent.com/midvash/bible-data/d9fe1779447717bbfcb578e505b893125cad581c/versions/en/kjv/metadata.json"
+    },
+    {
+      "translation": "WEB",
+      "url": "https://raw.githubusercontent.com/midvash/bible-data/d9fe1779447717bbfcb578e505b893125cad581c/versions/en/web/web.json",
+      "sha256": "6eb5ddf646f1b8fd17013b7ab098f87d53bfae032fecc9ad34258a554a2e4c86",
+      "verses": 31098,
+      "license": "Public Domain (upstream metadata)",
+      "metadata": "https://raw.githubusercontent.com/midvash/bible-data/d9fe1779447717bbfcb578e505b893125cad581c/versions/en/web/metadata.json"
+    }
+  ]
+}

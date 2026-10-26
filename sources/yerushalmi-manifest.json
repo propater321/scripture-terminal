@@ -1,0 +1,1266 @@
+{
+  "library": "yerushalmi",
+  "name": "Jerusalem Talmud",
+  "retrieved": "2026-10-26T11:24:24Z",
+  "sources": [
+    {
+      "work": "Jerusalem Talmud Berakhot",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Berakhot-original.json",
+      "sha256": "2524e6d0c08836e287111d19eee3526a8c4f1b093a926fef2daa43fe842b07e7"
+    },
+    {
+      "work": "Jerusalem Talmud Berakhot",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Berakhot/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Berakhot-english.json",
+      "sha256": "83b0f00d26c8fd3179cee0147a3f065f46582852bdda772cde1e182048a29c0a"
+    },
+    {
+      "work": "Jerusalem Talmud Peah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Peah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Peah-original.json",
+      "sha256": "50c6e3c0ac01d49ec91f289c39f4e0f93055c4eb04e1e28d6041c65aeab52921"
+    },
+    {
+      "work": "Jerusalem Talmud Peah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Peah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Peah-english.json",
+      "sha256": "c39e8cfb48b168d7062a0117c20a2f66a6b55a5ef3cb32d4fe2f54218e7fd648"
+    },
+    {
+      "work": "Jerusalem Talmud Demai",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Demai/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Demai-original.json",
+      "sha256": "f545e000d3d5a230d19ae2f1a8d8193f8ed810ed172134962593aee82d2cfca3"
+    },
+    {
+      "work": "Jerusalem Talmud Demai",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Demai/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Demai-english.json",
+      "sha256": "9e67e783be58904ad77f27907c71bead28ffcdb6cbce475b6280d04c4baac905"
+    },
+    {
+      "work": "Jerusalem Talmud Kilayim",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Kilayim-original.json",
+      "sha256": "8fc07c3e06580baa533a5997a86d7f861b3974a6bdaa85c711ab03981d9ea8ce"
+    },
+    {
+      "work": "Jerusalem Talmud Kilayim",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Kilayim/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Kilayim-english.json",
+      "sha256": "9da8742ff5dc272a73315698fe192b7d4422acc5de15c0e521937ae571c2adef"
+    },
+    {
+      "work": "Jerusalem Talmud Sheviit",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Sheviit/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sheviit-original.json",
+      "sha256": "35bc81986311b0c914c47770811d0b0925c56d0c5d4359a5eb169ff2ff3ab85d"
+    },
+    {
+      "work": "Jerusalem Talmud Sheviit",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Sheviit/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sheviit-english.json",
+      "sha256": "01e7c8125805a9f401e09e66e1550406e161da0f312689faee0bd2fa75f223b3"
+    },
+    {
+      "work": "Jerusalem Talmud Terumot",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Terumot/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Terumot-original.json",
+      "sha256": "b40363a9892abd3b06116f87286163570f8ea10fcdf7fae9d2e7c071de9fe74f"
+    },
+    {
+      "work": "Jerusalem Talmud Terumot",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Terumot/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Terumot-english.json",
+      "sha256": "cac8809fde6e957fb21d17f587270bebaa973d52ad70609b38132501971464fd"
+    },
+    {
+      "work": "Jerusalem Talmud Maasrot",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Maasrot/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Maasrot-original.json",
+      "sha256": "e404580f072cdf59e6c6ba7bcc5497018c52e0fcf1c02fd17686d6c371a59ff4"
+    },
+    {
+      "work": "Jerusalem Talmud Maasrot",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Maasrot/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Maasrot-english.json",
+      "sha256": "65b671320ae0db94e6dec86a1f2cb877d5eaa9935b0cff5aec51eabddacb3476"
+    },
+    {
+      "work": "Jerusalem Talmud Maaser Sheni",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Maaser%20Sheni/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Maaser_Sheni-original.json",
+      "sha256": "9480c03325be89ddfe353d242401844040984b3b3309a9b7f62c8d69659f0227"
+    },
+    {
+      "work": "Jerusalem Talmud Maaser Sheni",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Maaser%20Sheni/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Maaser_Sheni-english.json",
+      "sha256": "2c5a1fe1fe49ba97a8cad8970647da073d5022da506f3793e8eb71e1b1d407da"
+    },
+    {
+      "work": "Jerusalem Talmud Challah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Challah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Challah-original.json",
+      "sha256": "93a374805af973da0b42fe8e39b832e9bf06ea28a0bc70e70654e5fd63ebbe8e"
+    },
+    {
+      "work": "Jerusalem Talmud Challah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Challah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Challah-english.json",
+      "sha256": "f4ebe1845cb25853b145631ad40d8b859ae71e6a166e2d2b211897137c681035"
+    },
+    {
+      "work": "Jerusalem Talmud Orlah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Orlah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Orlah-original.json",
+      "sha256": "b7c92ddb67be87fa75af9385c657567944d36cef1378ca9e3ffda5426df3a991"
+    },
+    {
+      "work": "Jerusalem Talmud Orlah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Orlah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Orlah-english.json",
+      "sha256": "83b2b030f1973d5f9024a59605121fdf6304b6401ac5746e474d74f380a1e6fb"
+    },
+    {
+      "work": "Jerusalem Talmud Bikkurim",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Bikkurim/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bikkurim-original.json",
+      "sha256": "9ec2c43cc46717a746901e329c57c4cd67446017c5d6df9303fc934efbb47936"
+    },
+    {
+      "work": "Jerusalem Talmud Bikkurim",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Zeraim/Jerusalem%20Talmud%20Bikkurim/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bikkurim-english.json",
+      "sha256": "df8f7635630f32fd6c35670f2d8c384ae8db144556ed7066fb7a0f78ce3ddc8d"
+    },
+    {
+      "work": "Jerusalem Talmud Shabbat",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shabbat-original.json",
+      "sha256": "5f17489e6e60dd050aac9c95989e587638faaa6680fdfeb73f798b18d0da427e"
+    },
+    {
+      "work": "Jerusalem Talmud Shabbat",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shabbat/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shabbat-english.json",
+      "sha256": "95f47d3aa0bde7133a0a0de76ff0a1964bb18efa101a1dff7410823c6a0bb982"
+    },
+    {
+      "work": "Jerusalem Talmud Eruvin",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Eruvin/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Eruvin-original.json",
+      "sha256": "9ce8b2dd05d31eaa55fc347d14744d74490ad08b00aafd835775a0bfe018ae3d"
+    },
+    {
+      "work": "Jerusalem Talmud Eruvin",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Eruvin/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Eruvin-english.json",
+      "sha256": "97d511ed92803536e8fec744f95d4741086d0683274f17dc922e81a39d1379cb"
+    },
+    {
+      "work": "Jerusalem Talmud Pesachim",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Pesachim-original.json",
+      "sha256": "6575b6d761ff72000d38911a23debcd4abc21f925cfbdfe7d22d5a892611d7f8"
+    },
+    {
+      "work": "Jerusalem Talmud Pesachim",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Pesachim/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Pesachim-english.json",
+      "sha256": "4c6f426a6332898f4a4452d740fda84927d5125473cc7e2406694198394ab2db"
+    },
+    {
+      "work": "Jerusalem Talmud Yoma",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Yoma/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Yoma-original.json",
+      "sha256": "fc2e26ce93555785f10362c89ffe9d338583de9f68ccc8597ccfb7fef13d7f12"
+    },
+    {
+      "work": "Jerusalem Talmud Yoma",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Yoma/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Yoma-english.json",
+      "sha256": "da62f4fe178a6cb2fa13b93df1ad102160b12760324fcb3f8e56e732acbba8ed"
+    },
+    {
+      "work": "Jerusalem Talmud Shekalim",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shekalim/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shekalim-original.json",
+      "sha256": "704e5a4488435814633d9bdd3e76e91d426dd28e7c99ddd432108fa07a97cfb2"
+    },
+    {
+      "work": "Jerusalem Talmud Shekalim",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Shekalim/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shekalim-english.json",
+      "sha256": "edf9dcd88ed927e9793fb48dc75fa2aa84c65faafeb85a7ff068ee37564e0f04"
+    },
+    {
+      "work": "Jerusalem Talmud Sukkah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Sukkah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sukkah-original.json",
+      "sha256": "033ca47312f350df7ba24f56303aaed4e6bed178f993f80e274369da9065e975"
+    },
+    {
+      "work": "Jerusalem Talmud Sukkah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Sukkah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sukkah-english.json",
+      "sha256": "9109dfbe4b4428cf5afe449036fceb501e47ac220479c425e03011ba6b23928c"
+    },
+    {
+      "work": "Jerusalem Talmud Rosh Hashanah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Rosh%20Hashanah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Rosh_Hashanah-original.json",
+      "sha256": "0840935d18d4c250f7a356d8457e774bdbe26ffbbc637e2f9d20c3baf8eeb774"
+    },
+    {
+      "work": "Jerusalem Talmud Rosh Hashanah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Rosh%20Hashanah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Rosh_Hashanah-english.json",
+      "sha256": "559c223fd1fe2bc8aaeeb4080b16eeb136735461d8901398597adc63e5f27cc9"
+    },
+    {
+      "work": "Jerusalem Talmud Beitzah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Beitzah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Beitzah-original.json",
+      "sha256": "36b7c24fce4cc2cbf73d1b0e7c4af15f89edb0ce3f12e7f103e1d9bd4826a149"
+    },
+    {
+      "work": "Jerusalem Talmud Beitzah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Beitzah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Beitzah-english.json",
+      "sha256": "9fe87fcd21bf0131a0904558f6b98bd15a314045884f2e328dd708768f119a63"
+    },
+    {
+      "work": "Jerusalem Talmud Taanit",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Taanit/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Taanit-original.json",
+      "sha256": "d9bb64dbe80611dbb6600fb7c818ec6fa6653dc003712eab655a4638e537aa0c"
+    },
+    {
+      "work": "Jerusalem Talmud Taanit",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Taanit/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Taanit-english.json",
+      "sha256": "399aa94ab7b8f0b7ac788d794c9fb9a701a8861160449063a04e1a626eb6a103"
+    },
+    {
+      "work": "Jerusalem Talmud Megillah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Megillah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Megillah-original.json",
+      "sha256": "ba8fe47edb5074a7e374552554ff81b279c4072217e672356af5b52375e8e33b"
+    },
+    {
+      "work": "Jerusalem Talmud Megillah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Megillah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Megillah-english.json",
+      "sha256": "b80a2ba5c80416eb70a57e50dd690b539725c8059eaded13dc7e9daf7eb6dc52"
+    },
+    {
+      "work": "Jerusalem Talmud Chagigah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Chagigah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Chagigah-original.json",
+      "sha256": "97f07d1c0074eb03c8436555d8f11b38a1e014a2cdeb4e99b9ebb118f1759519"
+    },
+    {
+      "work": "Jerusalem Talmud Chagigah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Chagigah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Chagigah-english.json",
+      "sha256": "1187a6dfdfc02b7a5403804d96ba9244787cb9e9a9ea8f573b3aec7ea77aa569"
+    },
+    {
+      "work": "Jerusalem Talmud Moed Katan",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Moed%20Katan/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Moed_Katan-original.json",
+      "sha256": "dc2aab268b42adad24b2d5f7fc05a1a87ef67956facaa649dc70e949022f7e5d"
+    },
+    {
+      "work": "Jerusalem Talmud Moed Katan",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Moed/Jerusalem%20Talmud%20Moed%20Katan/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Moed_Katan-english.json",
+      "sha256": "ab3ddeb94502851f5184317e7073382b665e1cc88715f26508de1989d233301e"
+    },
+    {
+      "work": "Jerusalem Talmud Yevamot",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Yevamot/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Yevamot-original.json",
+      "sha256": "e4444875c0d4486ac2a409c055d632b16309c3e75738ca8d151c2d3b2c893e94"
+    },
+    {
+      "work": "Jerusalem Talmud Yevamot",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Yevamot/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Yevamot-english.json",
+      "sha256": "cc0ca36b4857cc45e3a1e20d7bb0eab2810469874ba1daa039ea537914c641c9"
+    },
+    {
+      "work": "Jerusalem Talmud Sotah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Sotah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sotah-original.json",
+      "sha256": "56fb5c089ae5b1b021a610f98f3a52658a63cc686afbe7a9904a344d00ecf3d6"
+    },
+    {
+      "work": "Jerusalem Talmud Sotah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Sotah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sotah-english.json",
+      "sha256": "86594680599891f397280aa2feece6fbb96dae1e5279f771ea8c12528aa5ec05"
+    },
+    {
+      "work": "Jerusalem Talmud Ketubot",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Ketubot/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Ketubot-original.json",
+      "sha256": "cd9db5208b6301ced8945aa37d576c3a0eb02817b02242d40d85eacafc357ff4"
+    },
+    {
+      "work": "Jerusalem Talmud Ketubot",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Ketubot/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Ketubot-english.json",
+      "sha256": "59aba8e02115cc35a55fa4f510f67eadd0ef2fbf9feab291a8d70f24a3448be6"
+    },
+    {
+      "work": "Jerusalem Talmud Nedarim",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nedarim/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Nedarim-original.json",
+      "sha256": "40876e11d9026f1c9a83edaabe609fbbf66e1b97619d3491437e707ddf9a5c21"
+    },
+    {
+      "work": "Jerusalem Talmud Nedarim",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nedarim/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Nedarim-english.json",
+      "sha256": "d0d71bfdb94be5eefad16522495d13b2038bba14561b14d465f17fa850ab48d4"
+    },
+    {
+      "work": "Jerusalem Talmud Nazir",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nazir/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Nazir-original.json",
+      "sha256": "d4564c816bd91fa9af74705593cd263357700b7f2eeb7613a6dbb4f36c6d6c0e"
+    },
+    {
+      "work": "Jerusalem Talmud Nazir",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Nazir/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Nazir-english.json",
+      "sha256": "c9812164e53e5a87d4705e1f74c78e45c25d3e44ec4a857d7a6c6a56d3247aed"
+    },
+    {
+      "work": "Jerusalem Talmud Gittin",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Gittin/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Gittin-original.json",
+      "sha256": "b5d91d7417583d8f7c705c2c4ae9a6ff32dd39536fb5bc368a84c7b35a66c91c"
+    },
+    {
+      "work": "Jerusalem Talmud Gittin",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Gittin/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Gittin-english.json",
+      "sha256": "da8e0764ed2d309da74da6c29deee830677213bd6055f5cfd48d96cfdfe06f85"
+    },
+    {
+      "work": "Jerusalem Talmud Kiddushin",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Kiddushin/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Kiddushin-original.json",
+      "sha256": "f6d2fb78b2e76f5c15d75201a00718b1704d879dec58a491e111a65df2b1c9b6"
+    },
+    {
+      "work": "Jerusalem Talmud Kiddushin",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nashim/Jerusalem%20Talmud%20Kiddushin/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Kiddushin-english.json",
+      "sha256": "1a033f599b8eb1b9867f16f287c1df18dcf632848cde903563048345125a8611"
+    },
+    {
+      "work": "Jerusalem Talmud Bava Kamma",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Kamma/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Kamma-original.json",
+      "sha256": "0f4ef1b25a8eaee36537c383900fde87425e1fe62f26b33797d13c879e2ded81"
+    },
+    {
+      "work": "Jerusalem Talmud Bava Kamma",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Kamma/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Kamma-english.json",
+      "sha256": "ff3f7aaba88061fe5ce600f7e95e491c432361178d3d37bdcd80dacb3d8565d7"
+    },
+    {
+      "work": "Jerusalem Talmud Bava Metzia",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Metzia/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Metzia-original.json",
+      "sha256": "5e7d0150305a25618df30662d6ccfbc83c66609a6c26358137be80fcb627022a"
+    },
+    {
+      "work": "Jerusalem Talmud Bava Metzia",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Metzia/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Metzia-english.json",
+      "sha256": "d8242a0a06e2f760018a81d073580df632426b8fa469263db5d1d6677b310ec1"
+    },
+    {
+      "work": "Jerusalem Talmud Bava Batra",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Batra/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Batra-original.json",
+      "sha256": "5b8f4f14711d4648f31f6ebccc0441da9f1b8204e551106cccc3884359422011"
+    },
+    {
+      "work": "Jerusalem Talmud Bava Batra",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Bava%20Batra/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Batra-english.json",
+      "sha256": "60d2bcd1ff01d81bf48571e159f1d8c1424f9b5987540743bfa531fa018e8dc2"
+    },
+    {
+      "work": "Jerusalem Talmud Sanhedrin",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sanhedrin-original.json",
+      "sha256": "52ddf175db0bbb27318fb96dea0bd30d8765008074068ae69d54c827e42f095c"
+    },
+    {
+      "work": "Jerusalem Talmud Sanhedrin",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Sanhedrin/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sanhedrin-english.json",
+      "sha256": "b85e60cd6773e11671aef9b2db77a0f68e9d78773b68dd2dc27fc740544d2d52"
+    },
+    {
+      "work": "Jerusalem Talmud Shevuot",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Shevuot/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shevuot-original.json",
+      "sha256": "613a7f5bd3de39aee7c56d5932f0075f24850c0246be6f1379d8dfa448c6143b"
+    },
+    {
+      "work": "Jerusalem Talmud Shevuot",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Shevuot/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shevuot-english.json",
+      "sha256": "b9e6d1c4f5f3483bf135902f6fca07c5dc608083cc9e135198078a4b54042032"
+    },
+    {
+      "work": "Jerusalem Talmud Avodah Zarah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Avodah%20Zarah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Avodah_Zarah-original.json",
+      "sha256": "af4f3a8fa48d1b6ff2447ed72312de9a8c5077e3121c2157043ec1d4fb2fb5f3"
+    },
+    {
+      "work": "Jerusalem Talmud Avodah Zarah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Avodah%20Zarah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Avodah_Zarah-english.json",
+      "sha256": "70a2970adec2d2eca1a179f33bda046aa687ce8c7b8bacadb1f24c3d24428801"
+    },
+    {
+      "work": "Jerusalem Talmud Makkot",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Makkot/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Makkot-original.json",
+      "sha256": "a692ef931fd9b11b6136b5316749c923a324b5a9d845f2a3336dc7d25e99af0e"
+    },
+    {
+      "work": "Jerusalem Talmud Makkot",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Makkot/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Makkot-english.json",
+      "sha256": "bcee5cbb0974363d8c0242268f30e753cb2b800f6091f4d372ad3debed89d406"
+    },
+    {
+      "work": "Jerusalem Talmud Horayot",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Horayot/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Horayot-original.json",
+      "sha256": "23ae02decc5673b65a7d0b84c7770b058afe4de2537e4ee01c313b8756ce43ad"
+    },
+    {
+      "work": "Jerusalem Talmud Horayot",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Nezikin/Jerusalem%20Talmud%20Horayot/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Horayot-english.json",
+      "sha256": "e5c52ede6719224e1c29e36547c5ccfc1c27198da0248cb2453d61088e7e82a2"
+    },
+    {
+      "work": "Jerusalem Talmud Niddah",
+      "edition": "original",
+      "versionTitle": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "he",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Tahorot/Jerusalem%20Talmud%20Niddah/Hebrew/The%20Jerusalem%20Talmud%2C%20edition%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Niddah-original.json",
+      "sha256": "ca7f3601d53ac104783db1cfd50d9e41cfaa6dd591e175b1a73a2a93dbfee94d"
+    },
+    {
+      "work": "Jerusalem Talmud Niddah",
+      "edition": "english",
+      "versionTitle": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Yerushalmi/Seder%20Tahorot/Jerusalem%20Talmud%20Niddah/English/The%20Jerusalem%20Talmud%2C%20translation%20and%20commentary%20by%20Heinrich%20W.%20Guggenheimer.%20Berlin%2C%20De%20Gruyter%2C%201999-2015.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Niddah-english.json",
+      "sha256": "f572931a1fa8631c415ddbeeced25b53c9b7056c614730c8ea915c55a831d5f2"
+    }
+  ],
+  "schemas": [
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Berakhot.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Berakhot-schema.json",
+      "sha256": "cfa893383468993b721f242481e2a32d41188e78212177adfcb09dce68b37294"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Peah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Peah-schema.json",
+      "sha256": "5c225f0aef6b14f80051f42a029dadaea5411c45c8f4dc24d551c0232c20d8ae"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Demai.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Demai-schema.json",
+      "sha256": "4c1705f1c2c4c7e4813fcdcb24f7aaf8a0b61328f75aa9046313bc528af2ea41"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Kilayim.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Kilayim-schema.json",
+      "sha256": "a955f7d33eca795457493e91d8b3e994fc07f1ea337f59fcf26b2c4f5c783d00"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Sheviit.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sheviit-schema.json",
+      "sha256": "74b71f6063f20c9670d75736511ea0f616633e91243575bc742c32570e60c710"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Terumot.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Terumot-schema.json",
+      "sha256": "015b1d6428fb4864db99e64385139546a5d49743653080fdc111345f167660ca"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Maasrot.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Maasrot-schema.json",
+      "sha256": "0ae5d8af138fed9faa7de03ad24bcf8a711f72627fc884ad8dd86351632a1bd0"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Maaser_Sheni.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Maaser_Sheni-schema.json",
+      "sha256": "f338bd59932ddfc049c434891e9d4048e18d046506c2b3c4f3aeeef2f7ad850e"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Challah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Challah-schema.json",
+      "sha256": "dc1eb01abbc006cf1fcc123021ce26e11c36e8b6ff837f6c4323e0a54d1a9bec"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Orlah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Orlah-schema.json",
+      "sha256": "a04079513cc15a302dd3c6940a501196be000049c13d5b5e7622169cc7b3e393"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Bikkurim.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bikkurim-schema.json",
+      "sha256": "45d0be77931056e1aa03075be25687cff2eced76f26cf2c2cf7153ad654db8a5"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Shabbat.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shabbat-schema.json",
+      "sha256": "836d65b828b90a5cf7925bd6ba5858c3322d17f494e07d1d2aaf5ba548983572"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Eruvin.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Eruvin-schema.json",
+      "sha256": "52cd604dc4759442851c4b3c986e56b54bab53ca7d3f57ea49d4425605305d9d"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Pesachim.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Pesachim-schema.json",
+      "sha256": "4ccaad89af3d36de20a4bc4770359a8b2c977c59c5403f279cb60393c9f87853"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Yoma.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Yoma-schema.json",
+      "sha256": "2c18b34874f23d77e76ab894c8b7f44dc02bd2895d5f9748cbc8c55b005a8cb4"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Shekalim.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shekalim-schema.json",
+      "sha256": "3ac0341cd7f720884c3962490b44f490c62de5d026068a6d74ffaa065953903c"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Sukkah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sukkah-schema.json",
+      "sha256": "64d8beacc5e5c4605d1177d20c805654fc0d8a51514380ac7c1841ecd850db41"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Rosh_Hashanah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Rosh_Hashanah-schema.json",
+      "sha256": "b843e95ae6b614375767a0a465e80f203fa1899ee1a9f816da4bab579af10a8c"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Beitzah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Beitzah-schema.json",
+      "sha256": "e249ea7bb95c61c51d53842f8d9664b359e19315a3296a4078cec2f23b9fa71a"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Taanit.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Taanit-schema.json",
+      "sha256": "59671a08e89fae8ba0a99ac7328a955d00ce29f83356a9ea0300622414ca55c1"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Megillah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Megillah-schema.json",
+      "sha256": "26e76e9427fae699f65981853208928c3f8dc192f9f3d2bc8886b508691cecb2"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Chagigah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Chagigah-schema.json",
+      "sha256": "e5bfe2d3c12bf5f14c9d7cdfeecf28b33418a61d0f75b03534b6b66ab2fa60a1"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Moed_Katan.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Moed_Katan-schema.json",
+      "sha256": "9b7eb17b7ff7d5bd2c735c7b1c6c7658a85ca11e64a432a3a9410942fc4b2812"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Yevamot.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Yevamot-schema.json",
+      "sha256": "44568a7ecd167e198b687745cb26b6177e25a9ee3b38e264910ffbf5cf07beb8"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Sotah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sotah-schema.json",
+      "sha256": "43f308be45abb2a50dd8cfd2569c5d969bc509fd5552be5cadd03a22b3aadc01"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Ketubot.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Ketubot-schema.json",
+      "sha256": "0a0313de69396f0f85b0a4a8c78aa074699bbe345dd61aff246c51685a36ce02"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Nedarim.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Nedarim-schema.json",
+      "sha256": "6ae129df64960240e567e4402c3dcc9f3e85987384408ba8f97987ce9ed9df7a"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Nazir.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Nazir-schema.json",
+      "sha256": "860ef4de90b5de278b4c12c69c896aa4c6c4ed2bba7e9c0a607069e7f3ceb1bd"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Gittin.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Gittin-schema.json",
+      "sha256": "9438a29e2aef16f0f4e7ad56cfc4d57dffa3cef94dfa11319b5d3467e1302a2a"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Kiddushin.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Kiddushin-schema.json",
+      "sha256": "bac35300fecca6ac3deb0e1d315fb24bc3eed34c375288b7f65ab5ea6f1d4dd4"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Bava_Kamma.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Kamma-schema.json",
+      "sha256": "bda1f34eee5869e65b617232f4ab9dc0bd445afe934a7bd8e16566cc16023a79"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Bava_Metzia.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Metzia-schema.json",
+      "sha256": "b7d8bd05e1e92a7395d4b58dba61b2ae725e5f231c39600d688499b2986e0cb5"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Bava_Batra.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Bava_Batra-schema.json",
+      "sha256": "dc7d6dcc728806d910c8fd2369ec7c4fa5fbc0278f585fdcf4eaddaf8c373593"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Sanhedrin.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Sanhedrin-schema.json",
+      "sha256": "dcf68dcc8dee3048bb1c1279855615222e6c015872b3eb5b84f15e5e179045ea"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Shevuot.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Shevuot-schema.json",
+      "sha256": "679f35ce36f43e4d1f855ea94307cb070c27678fb05125f40300afdcd940278f"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Avodah_Zarah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Avodah_Zarah-schema.json",
+      "sha256": "1b68752919dbd927a7ca4996b38d49e259f4b32069f782ce16184f5a13648f39"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Makkot.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Makkot-schema.json",
+      "sha256": "c6dbd486ee5ba259cc806b2b1b110b6b53e65ee6408687476a3de6e64980aada"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Horayot.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Horayot-schema.json",
+      "sha256": "dfd444893e3c15afde95e9c01a609c3c0e7961293cb02eb92a727d4b77c36f45"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Jerusalem_Talmud_Niddah.json",
+      "file": "data/jewish-source/yerushalmi/Jerusalem_Talmud_Niddah-schema.json",
+      "sha256": "a0d5926dcdb2701d49842d5c9dc4e64927997e485ac223f8459e8a998fc6c27f"
+    }
+  ],
+  "coverage": {
+    "Jerusalem Talmud Berakhot": {
+      "original": 655,
+      "english": 655,
+      "segments": 655
+    },
+    "Jerusalem Talmud Peah": {
+      "original": 402,
+      "english": 402,
+      "segments": 402
+    },
+    "Jerusalem Talmud Demai": {
+      "original": 300,
+      "english": 300,
+      "segments": 300
+    },
+    "Jerusalem Talmud Kilayim": {
+      "original": 322,
+      "english": 322,
+      "segments": 322
+    },
+    "Jerusalem Talmud Sheviit": {
+      "original": 390,
+      "english": 390,
+      "segments": 390
+    },
+    "Jerusalem Talmud Terumot": {
+      "original": 418,
+      "english": 418,
+      "segments": 418
+    },
+    "Jerusalem Talmud Maasrot": {
+      "original": 186,
+      "english": 186,
+      "segments": 186
+    },
+    "Jerusalem Talmud Maaser Sheni": {
+      "original": 241,
+      "english": 241,
+      "segments": 241
+    },
+    "Jerusalem Talmud Challah": {
+      "original": 179,
+      "english": 179,
+      "segments": 179
+    },
+    "Jerusalem Talmud Orlah": {
+      "original": 176,
+      "english": 176,
+      "segments": 176
+    },
+    "Jerusalem Talmud Bikkurim": {
+      "original": 143,
+      "english": 143,
+      "segments": 143
+    },
+    "Jerusalem Talmud Shabbat": {
+      "original": 772,
+      "english": 771,
+      "segments": 772
+    },
+    "Jerusalem Talmud Eruvin": {
+      "original": 415,
+      "english": 415,
+      "segments": 415
+    },
+    "Jerusalem Talmud Pesachim": {
+      "original": 515,
+      "english": 515,
+      "segments": 515
+    },
+    "Jerusalem Talmud Yoma": {
+      "original": 362,
+      "english": 362,
+      "segments": 362
+    },
+    "Jerusalem Talmud Shekalim": {
+      "original": 226,
+      "english": 226,
+      "segments": 226
+    },
+    "Jerusalem Talmud Sukkah": {
+      "original": 205,
+      "english": 205,
+      "segments": 205
+    },
+    "Jerusalem Talmud Rosh Hashanah": {
+      "original": 160,
+      "english": 160,
+      "segments": 160
+    },
+    "Jerusalem Talmud Beitzah": {
+      "original": 195,
+      "english": 194,
+      "segments": 195
+    },
+    "Jerusalem Talmud Taanit": {
+      "original": 245,
+      "english": 245,
+      "segments": 245
+    },
+    "Jerusalem Talmud Megillah": {
+      "original": 232,
+      "english": 232,
+      "segments": 232
+    },
+    "Jerusalem Talmud Chagigah": {
+      "original": 149,
+      "english": 149,
+      "segments": 149
+    },
+    "Jerusalem Talmud Moed Katan": {
+      "original": 161,
+      "english": 161,
+      "segments": 161
+    },
+    "Jerusalem Talmud Yevamot": {
+      "original": 638,
+      "english": 638,
+      "segments": 638
+    },
+    "Jerusalem Talmud Sotah": {
+      "original": 381,
+      "english": 381,
+      "segments": 381
+    },
+    "Jerusalem Talmud Ketubot": {
+      "original": 516,
+      "english": 516,
+      "segments": 516
+    },
+    "Jerusalem Talmud Nedarim": {
+      "original": 346,
+      "english": 346,
+      "segments": 346
+    },
+    "Jerusalem Talmud Nazir": {
+      "original": 305,
+      "english": 305,
+      "segments": 305
+    },
+    "Jerusalem Talmud Gittin": {
+      "original": 349,
+      "english": 349,
+      "segments": 349
+    },
+    "Jerusalem Talmud Kiddushin": {
+      "original": 329,
+      "english": 329,
+      "segments": 329
+    },
+    "Jerusalem Talmud Bava Kamma": {
+      "original": 275,
+      "english": 275,
+      "segments": 275
+    },
+    "Jerusalem Talmud Bava Metzia": {
+      "original": 273,
+      "english": 273,
+      "segments": 273
+    },
+    "Jerusalem Talmud Bava Batra": {
+      "original": 260,
+      "english": 260,
+      "segments": 260
+    },
+    "Jerusalem Talmud Sanhedrin": {
+      "original": 587,
+      "english": 586,
+      "segments": 587
+    },
+    "Jerusalem Talmud Shevuot": {
+      "original": 291,
+      "english": 291,
+      "segments": 291
+    },
+    "Jerusalem Talmud Avodah Zarah": {
+      "original": 352,
+      "english": 352,
+      "segments": 352
+    },
+    "Jerusalem Talmud Makkot": {
+      "original": 75,
+      "english": 75,
+      "segments": 75
+    },
+    "Jerusalem Talmud Horayot": {
+      "original": 122,
+      "english": 122,
+      "segments": 122
+    },
+    "Jerusalem Talmud Niddah": {
+      "original": 98,
+      "english": 98,
+      "segments": 98
+    }
+  },
+  "works": 39,
+  "books": 39,
+  "transformations": [
+    "HTML formatting flattened for terminal display; source HTML retained.",
+    "Inline edition footnotes separated from main text; original edition text is never machine-translated.",
+    "Native references retained; missing translations are represented as gaps."
+  ]
+}

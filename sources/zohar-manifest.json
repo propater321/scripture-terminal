@@ -1,0 +1,39 @@
+{
+  "library": "zohar",
+  "name": "Zohar",
+  "retrieved": "2026-10-26T11:24:36Z",
+  "sources": [
+    {
+      "work": "Zohar",
+      "edition": "english",
+      "versionTitle": "The Zohar; London, Soncino Press, 1933",
+      "language": "en",
+      "license": "Public Domain",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH997012945475805171/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Zohar/English/The%20Zohar%3B%20London%2C%20Soncino%20Press%2C%201933.json",
+      "file": "data/jewish-source/zohar/Zohar-english.json",
+      "sha256": "f45f6c243a152a9083026847c97191a0fcf0e6c3b78f0b0d80e13e433316cd67"
+    }
+  ],
+  "schemas": [
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Zohar.json",
+      "file": "data/jewish-source/zohar/Zohar-schema.json",
+      "sha256": "cf48d1f754bd5e385ed67de1f48fe46000d7209635cd490ea8e47c7459d27b8f"
+    }
+  ],
+  "coverage": {
+    "Zohar": {
+      "original": 0,
+      "english": 10779,
+      "segments": 10779
+    }
+  },
+  "works": 1,
+  "books": 46,
+  "transformations": [
+    "HTML formatting flattened for terminal display; source HTML retained.",
+    "Inline edition footnotes separated from main text; original edition text is never machine-translated.",
+    "Native references retained; missing translations are represented as gaps."
+  ]
+}

@@ -1,0 +1,1202 @@
+{
+  "library": "bavli",
+  "name": "Babylonian Talmud",
+  "retrieved": "2026-10-26T11:24:15Z",
+  "sources": [
+    {
+      "work": "Berakhot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Berakhot-original.json",
+      "sha256": "eb27518ffde60a6acecc61cf931db3dc78c329c6e65d95e4c4765514edbc2cce"
+    },
+    {
+      "work": "Berakhot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Zeraim/Berakhot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Berakhot-english.json",
+      "sha256": "567a2e6d98de125c40b05341428f347dfca24265b9a048a97a20d97dc2729e5b"
+    },
+    {
+      "work": "Shabbat",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://www.sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Shabbat-original.json",
+      "sha256": "aadd82b4c9eb80aa8885fe5d485c83392ca048a10ca690f35c46777bcafa5992"
+    },
+    {
+      "work": "Shabbat",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Shabbat/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Shabbat-english.json",
+      "sha256": "3759dc41ad77e917a941bf73df2162a0ca82621b9e8570832b2fca9186cd928f"
+    },
+    {
+      "work": "Eruvin",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Eruvin/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Eruvin-original.json",
+      "sha256": "2d9a6891a95a13933cd6e8f8fa81fd598e389d603c8cdcc7dbe4dae74ca752f4"
+    },
+    {
+      "work": "Eruvin",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Eruvin/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Eruvin-english.json",
+      "sha256": "7d63a109af5e412838afb825cc1d0a133b906f75fbc98aa77e4f60df4ec5aa44"
+    },
+    {
+      "work": "Pesachim",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Pesachim-original.json",
+      "sha256": "b524402e5da2cf688d4775edb41555af51578e7cada7046db0e7ed146baba16a"
+    },
+    {
+      "work": "Pesachim",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Pesachim/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Pesachim-english.json",
+      "sha256": "0afb5bc38b0d9502f004b6df81912637a2b8d7a425039e6994fb95799c16e372"
+    },
+    {
+      "work": "Rosh Hashanah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Rosh%20Hashanah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Rosh_Hashanah-original.json",
+      "sha256": "7180d712c7269b5e7c1f779c2a8c494b86e92428c4ec19604755da3881d3f754"
+    },
+    {
+      "work": "Rosh Hashanah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Rosh%20Hashanah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Rosh_Hashanah-english.json",
+      "sha256": "4d6c749b2bb717efe7d2bd25f4e98625cdfa09440af77c8acbd23cf37cd33b48"
+    },
+    {
+      "work": "Yoma",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Yoma/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Yoma-original.json",
+      "sha256": "d82b8f483183fcac586b3747f00eb714bf06ac998307260c190a920dbdfece63"
+    },
+    {
+      "work": "Yoma",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Yoma/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Yoma-english.json",
+      "sha256": "a5bcdc7ae2ffdd183fa743d7ab58d8f75bc1a7372ac281a9e91192cd4392401a"
+    },
+    {
+      "work": "Sukkah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Sukkah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Sukkah-original.json",
+      "sha256": "73de250b1446d20f7180c21e3bd4cf8ba76bbb4a5f6655ddb14b30faba69c891"
+    },
+    {
+      "work": "Sukkah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Sukkah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Sukkah-english.json",
+      "sha256": "ca7ade4daacff366a5f476b9d916cb1129c5f5f47c590188f150f69345c51bf1"
+    },
+    {
+      "work": "Beitzah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Beitzah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Beitzah-original.json",
+      "sha256": "0be985fea86663ab9dd48153c6d622e131330a915cb38bf9468d533078841e24"
+    },
+    {
+      "work": "Beitzah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Beitzah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Beitzah-english.json",
+      "sha256": "dffff086902107162316d253c3b6666dcec7381832903fbd0d3d461bc68bb275"
+    },
+    {
+      "work": "Taanit",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Taanit/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Taanit-original.json",
+      "sha256": "a241f9950659739244c4becbeb6bbbdc2b74dcb64b4113ae3c25c22c0d67b383"
+    },
+    {
+      "work": "Taanit",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Taanit/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Taanit-english.json",
+      "sha256": "b4dd85df7e5bd57d08b3e53630f451de5888311f864063a3918e412fc60ba0ab"
+    },
+    {
+      "work": "Megillah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Megillah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Megillah-original.json",
+      "sha256": "c72bb054f43d4b9ece41c9cd63d76579ea422c4321d965db066a57eaf5c24c54"
+    },
+    {
+      "work": "Megillah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Megillah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Megillah-english.json",
+      "sha256": "b588b24d73a874817ae1fd6c1df81169b3a4db9e8ca14c77edd7b926fc202eda"
+    },
+    {
+      "work": "Moed Katan",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Moed_Katan-original.json",
+      "sha256": "6114dde4aa89e1277dca809d1a49878e09da5a3873c181d56bb52f512a4e7039"
+    },
+    {
+      "work": "Moed Katan",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Moed%20Katan/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Moed_Katan-english.json",
+      "sha256": "5f5a655e681f5035442a4bb8e56d28f4c023c397bc35f9d8bbaec578f8892b9a"
+    },
+    {
+      "work": "Chagigah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Chagigah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Chagigah-original.json",
+      "sha256": "f7b5cb09357cd6e4f239652dbc6b8a0cb688c3b7088c348bf20e47568f07522a"
+    },
+    {
+      "work": "Chagigah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Moed/Chagigah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Chagigah-english.json",
+      "sha256": "17949f79d840de8534835c663d74547ba2eb549a140aafc3818af5c7bbc148d0"
+    },
+    {
+      "work": "Yevamot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Yevamot/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Yevamot-original.json",
+      "sha256": "6791eaa7d159a3041e374bae242e44702e6a02cdb5e8b4a779d32a5420e33566"
+    },
+    {
+      "work": "Yevamot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Yevamot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Yevamot-english.json",
+      "sha256": "c9852214d8ffee5fb5b96fc761e0aa728a4e36880bb41bb636ad9e7115fd1ba2"
+    },
+    {
+      "work": "Ketubot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Ketubot-original.json",
+      "sha256": "804b4ffe6d43c59c6f4f2796084ebd67fec6f51fc347695001701f391f9f44d3"
+    },
+    {
+      "work": "Ketubot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Ketubot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Ketubot-english.json",
+      "sha256": "30cf8e249bc1e6acbda4d567c37e090cfcbb702d73f42a588eb55ae698db10e5"
+    },
+    {
+      "work": "Nedarim",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nedarim/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Nedarim-original.json",
+      "sha256": "05b389cb57427bed4ddbc15cfdc1e4c0442f8ca84a674ddd64b44ccd298b3d33"
+    },
+    {
+      "work": "Nedarim",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nedarim/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Nedarim-english.json",
+      "sha256": "51822f12b5c044fe88d6c7013196db66a8b0fe5493c560e8b6786c2faf5f9dc7"
+    },
+    {
+      "work": "Nazir",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nazir/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Nazir-original.json",
+      "sha256": "b2175fc35fd2f2c17494e2ffe0e15e3aea787bfa241401690a63667b8c41a530"
+    },
+    {
+      "work": "Nazir",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Nazir/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Nazir-english.json",
+      "sha256": "8cebd54d447344489c9de3508bc7f9a6cd72db1a107c58062f8595c0290b0cf8"
+    },
+    {
+      "work": "Sotah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Sotah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Sotah-original.json",
+      "sha256": "0cecb119091c64da4d709e435957c64b690fec08187a6cf4398aa42536e182af"
+    },
+    {
+      "work": "Sotah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Sotah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Sotah-english.json",
+      "sha256": "4bfb7d80b87e3628b8178c1b4187ebc90815d0e6da58ae44425a5d4255126261"
+    },
+    {
+      "work": "Gittin",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Gittin/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Gittin-original.json",
+      "sha256": "9f05ca6e0e50b216cbcf8c73910a5365d5c956f13cbcfe10474f47c85c6af0a5"
+    },
+    {
+      "work": "Gittin",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Gittin/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Gittin-english.json",
+      "sha256": "40ecdd207c94366b21389e30550be72074f34d7e939b19d06bf8e17e22ae1cb1"
+    },
+    {
+      "work": "Kiddushin",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Kiddushin/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Kiddushin-original.json",
+      "sha256": "d3c4eeefb5ff5cb60c1efebf805b411915462f56629ecb789927c0d57c2b3ff3"
+    },
+    {
+      "work": "Kiddushin",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nashim/Kiddushin/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Kiddushin-english.json",
+      "sha256": "9432a90565fad8d2ea83484b45ccc575f917413e9d8653a6bfeb7eebebe432d6"
+    },
+    {
+      "work": "Bava Kamma",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Kamma/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Bava_Kamma-original.json",
+      "sha256": "bf73b25673ca44779119eec0fae2e4275777981829de855b95f37a139dc679e7"
+    },
+    {
+      "work": "Bava Kamma",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Kamma/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Bava_Kamma-english.json",
+      "sha256": "49b08447d4d80a26667f713d933256d5b92504fbbea86dd73b0ba7819865b673"
+    },
+    {
+      "work": "Bava Metzia",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Metzia/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Bava_Metzia-original.json",
+      "sha256": "d0fb952b0782b5bbb839ca4d12007fe77cab1c2a667f554e3731b0a79e3cb679"
+    },
+    {
+      "work": "Bava Metzia",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Metzia/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Bava_Metzia-english.json",
+      "sha256": "653a2e62a942b2d44b2806f716bebd24138e5004a9dc6abf54b2c83f72a79fcd"
+    },
+    {
+      "work": "Bava Batra",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Bava_Batra-original.json",
+      "sha256": "346adb723fbe5db66d1264a8a3ff5b05c5e10b9dddc8e3929c7c73d4ab16668f"
+    },
+    {
+      "work": "Bava Batra",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Bava%20Batra/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Bava_Batra-english.json",
+      "sha256": "e8ea9c868656eb2734ed243590ded3729bb852c87dd1474af7cfcb4e45ff0148"
+    },
+    {
+      "work": "Sanhedrin",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Sanhedrin-original.json",
+      "sha256": "76180399ac1eac280c0ae42199f031268155e89a1fa7c12ebb104f8ed0a1a87d"
+    },
+    {
+      "work": "Sanhedrin",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Sanhedrin/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Sanhedrin-english.json",
+      "sha256": "ead1b281c68d65baad1aafb14c8eb26fe9c6fdca2119b8a80e93d0763f1c2fea"
+    },
+    {
+      "work": "Makkot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Makkot/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Makkot-original.json",
+      "sha256": "17d890bd1e3f6749da591bc241a4179c60ecc9168bfc54c6bd03d8b729833e34"
+    },
+    {
+      "work": "Makkot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Makkot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Makkot-english.json",
+      "sha256": "3f00840699b42c1aa64f8017528123a7ee1f93e09b17c833a8c18f38cad17aa0"
+    },
+    {
+      "work": "Shevuot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Shevuot/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Shevuot-original.json",
+      "sha256": "dc260f346505fbcda521e2a0b9462dc2a1fae0d413f4b36df4b5aae446de0214"
+    },
+    {
+      "work": "Shevuot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Shevuot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Shevuot-english.json",
+      "sha256": "d74c6f9e51174d36bd09f42f91d8693204153fff45494f10cf4d1b20f2e37609"
+    },
+    {
+      "work": "Avodah Zarah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Avodah_Zarah-original.json",
+      "sha256": "91985bf783385e72a7a145c9bfe855681bb00430100ee861995a3e5b3c85ecd5"
+    },
+    {
+      "work": "Avodah Zarah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Avodah%20Zarah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Avodah_Zarah-english.json",
+      "sha256": "7b74a1972e955e410c2cd204114582c72f16b0a2beaa1ec0b07c8d2a18b496f7"
+    },
+    {
+      "work": "Horayot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Horayot/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Horayot-original.json",
+      "sha256": "b838aadf4e4007631d746e8fd7721b91ffd9839d9913683e01f879a8091278f6"
+    },
+    {
+      "work": "Horayot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Nezikin/Horayot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Horayot-english.json",
+      "sha256": "1fec0469e11d0ba10379f31504852dd19da3464b80de34dd93c4104da29358a7"
+    },
+    {
+      "work": "Zevachim",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Zevachim/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Zevachim-original.json",
+      "sha256": "6158dbd3a2cf02eee68ab44d716440a453fe082c88c8b79824eca4209dee2ea5"
+    },
+    {
+      "work": "Zevachim",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Zevachim/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Zevachim-english.json",
+      "sha256": "3c3e9d676d7d9c1d0807b276fc089981971deec204f32245836baf7a0f8537be"
+    },
+    {
+      "work": "Menachot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Menachot/Hebrew/William%20Davidson%20Edition%20-%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Menachot-original.json",
+      "sha256": "de2550fe61855e0953adfba29c350e3c06116ec5d6cbbd1c60822bde5fb7cffe"
+    },
+    {
+      "work": "Menachot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Menachot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Menachot-english.json",
+      "sha256": "e56ba9450e59056e3c966d54e83b1718b42d31b6b23457b42c648e933ca45215"
+    },
+    {
+      "work": "Chullin",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/Hebrew/William%20Davidson%20Edition%20-%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Chullin-original.json",
+      "sha256": "8e042abe3354d8b43c87cd3fe1335f8baff737b1fd8fd7184b7125566976fa6c"
+    },
+    {
+      "work": "Chullin",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Chullin/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Chullin-english.json",
+      "sha256": "1965a31f890015b98e28b7e95ee725668c26d478ef0a88e98d7b27afc2e755f8"
+    },
+    {
+      "work": "Bekhorot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Bekhorot-original.json",
+      "sha256": "f974eaf96f79bc44393d5132ee940766a4fd41f8cedf6719cf0fa7f5c9bf68d1"
+    },
+    {
+      "work": "Bekhorot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Bekhorot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Bekhorot-english.json",
+      "sha256": "f3f1c4557667b0fa8d250e153d0ea45d01be15694a1a72833fa9830b1d4a1f8e"
+    },
+    {
+      "work": "Arakhin",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Arakhin/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Arakhin-original.json",
+      "sha256": "7898d58623667a19430a5d2b53a0914b9be3c0833e8b4fad7025c007158b52d3"
+    },
+    {
+      "work": "Arakhin",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Arakhin/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Arakhin-english.json",
+      "sha256": "ae59e197d16b3ae8f4b26da1eb1ff420191b7451aea88b53aa3cef4970cd8e3b"
+    },
+    {
+      "work": "Temurah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Temurah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Temurah-original.json",
+      "sha256": "26d13d31d99337241b752380c11cfd95a3a134288d255cc856e9812d7e95cc9e"
+    },
+    {
+      "work": "Temurah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Temurah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Temurah-english.json",
+      "sha256": "674d8050b3e655a67fe65731cda1388adc8cb30e38cde525f5ec03921ff08013"
+    },
+    {
+      "work": "Keritot",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Keritot/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Keritot-original.json",
+      "sha256": "75fe4bf6673ed8fa762d19e781a09f6a6e5a04b19b82e6883ea83d11077bdfad"
+    },
+    {
+      "work": "Keritot",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Keritot/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Keritot-english.json",
+      "sha256": "7225c2d9564d5f6aaf47fabb96a5ee8e1a97c0772468a0af73f28716f9e63523"
+    },
+    {
+      "work": "Meilah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Meilah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Meilah-original.json",
+      "sha256": "4740186659d1f057fb1a46cd68b16d6acef2433d9561ea353e49395153929522"
+    },
+    {
+      "work": "Meilah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Meilah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Meilah-english.json",
+      "sha256": "1678e79ab85120f3a472cfdb7ab376988570a4e6ec646b7134cdba6a24773727"
+    },
+    {
+      "work": "Tamid",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Tamid/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Tamid-original.json",
+      "sha256": "2503df1acc6a3f1842e445c646846238ac35612adc9b39fd0a9d3ee8d21ffd4d"
+    },
+    {
+      "work": "Tamid",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Kodashim/Tamid/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Tamid-english.json",
+      "sha256": "07eaf3f1aed111c00701de248da5ff5a893810906a53e388154c6a2bae9c474b"
+    },
+    {
+      "work": "Niddah",
+      "edition": "original",
+      "versionTitle": "William Davidson Edition - Vocalized Aramaic",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.co.il/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Tahorot/Niddah/Hebrew/William%20Davidson%20Edition%20-%20Vocalized%20Aramaic.json",
+      "file": "data/jewish-source/bavli/Niddah-original.json",
+      "sha256": "416f8a04864f6a96191248fb7349092e4e345c99cccef34552be6f85a7a08f6d"
+    },
+    {
+      "work": "Niddah",
+      "edition": "english",
+      "versionTitle": "William Davidson Edition - English",
+      "language": "en",
+      "license": "CC-BY-NC",
+      "versionSource": "https://korenpub.com/collections/the-noe-edition-koren-talmud-bavli-1",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Seder%20Tahorot/Niddah/English/William%20Davidson%20Edition%20-%20English.json",
+      "file": "data/jewish-source/bavli/Niddah-english.json",
+      "sha256": "9983daf569fb9bc8edb987da99b27b93653e39ffdb78c3967473d92efdeaf2c4"
+    }
+  ],
+  "schemas": [
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Berakhot.json",
+      "file": "data/jewish-source/bavli/Berakhot-schema.json",
+      "sha256": "c3468282eb565158d592a7f397651342aa406baad65f34d9bda583491d18f0ba"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Shabbat.json",
+      "file": "data/jewish-source/bavli/Shabbat-schema.json",
+      "sha256": "12756e5e94d90edcb6c2f941dd7a2cb135129f4bcfde23d30617321f0540955f"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Eruvin.json",
+      "file": "data/jewish-source/bavli/Eruvin-schema.json",
+      "sha256": "a3f64549d3bf252a7001e76592e9c82ce05d46037bc68ba0923a9463d1d2b854"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Pesachim.json",
+      "file": "data/jewish-source/bavli/Pesachim-schema.json",
+      "sha256": "ea40d8a7df40ffe3d8df7e2660abe5d21ec765adae12a62372f2e80c343a591c"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Rosh_Hashanah.json",
+      "file": "data/jewish-source/bavli/Rosh_Hashanah-schema.json",
+      "sha256": "5d2c13f8e33f698ce6b6974d03747515f78f831870d9346b2a703304cc103f46"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Yoma.json",
+      "file": "data/jewish-source/bavli/Yoma-schema.json",
+      "sha256": "ebeeb82d9b258cb572b3ba3119368c026ad7ba720699275df56e9031706ec532"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Sukkah.json",
+      "file": "data/jewish-source/bavli/Sukkah-schema.json",
+      "sha256": "b095934e76fc00472c1fcfa0d137097e73645f5d096eb51a6b07d7ac34878421"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Beitzah.json",
+      "file": "data/jewish-source/bavli/Beitzah-schema.json",
+      "sha256": "28e9c32e5dba6f0d2fc402f4d219d19d68ea65db90f6c8c788a4dc5e7f9f0c6f"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Taanit.json",
+      "file": "data/jewish-source/bavli/Taanit-schema.json",
+      "sha256": "74017bd92d64a2c2b5809f02b248517b27e12d8a3842b7370e41ca48c0717f68"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Megillah.json",
+      "file": "data/jewish-source/bavli/Megillah-schema.json",
+      "sha256": "135817fa245d5c49de3efebffc06187a9ca1ca666d70bb95eb44f5133398723d"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Moed_Katan.json",
+      "file": "data/jewish-source/bavli/Moed_Katan-schema.json",
+      "sha256": "e2ea44e0bb417202ac2c316047e683e41ddd1a969451f3db35c5770a55e4d602"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Chagigah.json",
+      "file": "data/jewish-source/bavli/Chagigah-schema.json",
+      "sha256": "f041ffa7ceb6f6927109c28a88eede9604625258ae65ac6fb42dd19fc656a000"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Yevamot.json",
+      "file": "data/jewish-source/bavli/Yevamot-schema.json",
+      "sha256": "3fe40f9404135f464617b0aedffe2ada8d48289384816ef8ef0ea0fb437d711c"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Ketubot.json",
+      "file": "data/jewish-source/bavli/Ketubot-schema.json",
+      "sha256": "00ec807f6b52db20222e851d2082c22272368081b67a5bb9c840d828f83381df"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Nedarim.json",
+      "file": "data/jewish-source/bavli/Nedarim-schema.json",
+      "sha256": "c818d57e412c995d6515e388e1f4b387fd5668dfb444d8916c23ed6747f0a0ff"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Nazir.json",
+      "file": "data/jewish-source/bavli/Nazir-schema.json",
+      "sha256": "121d3754cbf677f6619683482023a4519ef73616ea05762339e7e41d89afda12"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Sotah.json",
+      "file": "data/jewish-source/bavli/Sotah-schema.json",
+      "sha256": "2830c5a9c8ba922c0a86004dc912c81e30b746f03ac1e802ea102951fcd6ed88"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Gittin.json",
+      "file": "data/jewish-source/bavli/Gittin-schema.json",
+      "sha256": "96ebd0b7b1e2974cabd5d3b963e0f8ef6f875b05a2ca33c8c216b49c72bab777"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Kiddushin.json",
+      "file": "data/jewish-source/bavli/Kiddushin-schema.json",
+      "sha256": "10707f1af7f454d479c0f6292552eb2a8c4176a5b44eb1a76d747c104adb409f"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Bava_Kamma.json",
+      "file": "data/jewish-source/bavli/Bava_Kamma-schema.json",
+      "sha256": "8ab7b6fdfa7ec53c3a0fd347e95384eeb4117283021035c7e4322f281f7496c9"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Bava_Metzia.json",
+      "file": "data/jewish-source/bavli/Bava_Metzia-schema.json",
+      "sha256": "f9085fdc699e35d101b00e9859f80beb122e88c463100675b1a7951a8185c8aa"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Bava_Batra.json",
+      "file": "data/jewish-source/bavli/Bava_Batra-schema.json",
+      "sha256": "cdc72e0cd909bcedf008bbefab154abb60b724b212246bb41e88dbf7b6713a7e"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Sanhedrin.json",
+      "file": "data/jewish-source/bavli/Sanhedrin-schema.json",
+      "sha256": "fec2e07b76992cf97ee6669f46a75ad538edc8ed23b90977d4871ada1f7df643"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Makkot.json",
+      "file": "data/jewish-source/bavli/Makkot-schema.json",
+      "sha256": "13566b001d0fbae25636dbe69f9b92c2fbb267b7ece6f07113363c5b94036cd2"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Shevuot.json",
+      "file": "data/jewish-source/bavli/Shevuot-schema.json",
+      "sha256": "65ad50496979d1ea992e5bb48d05fa9c9630f429ec596e945c19156dc3efacfc"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Avodah_Zarah.json",
+      "file": "data/jewish-source/bavli/Avodah_Zarah-schema.json",
+      "sha256": "1adb2a06ad163c0a323decd47c1d1dd517caf56e20f7c62fdb27c7933fae36ff"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Horayot.json",
+      "file": "data/jewish-source/bavli/Horayot-schema.json",
+      "sha256": "73a6f2a49da9de1432993eb9eb7adfcd1b2b7a9d0f57d15d29060d386d215623"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Zevachim.json",
+      "file": "data/jewish-source/bavli/Zevachim-schema.json",
+      "sha256": "6c9c4cadbeb87e2ea70fccb0aaba3b11a0761da3409b93dcad6d83ba39663bb4"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Menachot.json",
+      "file": "data/jewish-source/bavli/Menachot-schema.json",
+      "sha256": "76a2b047b766927e421fd53b69f3ca861c0c73d1322955fc5b98195c70dedfaa"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Chullin.json",
+      "file": "data/jewish-source/bavli/Chullin-schema.json",
+      "sha256": "f7b724b14987f5fd4b7bfd9e80b799d851ef6ec7191f5a2e2ba15a8194641c70"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Bekhorot.json",
+      "file": "data/jewish-source/bavli/Bekhorot-schema.json",
+      "sha256": "4694631d5100f3a7194b79ad85f2a7ec68ae7575a9a499a5e8bbf01a57b07579"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Arakhin.json",
+      "file": "data/jewish-source/bavli/Arakhin-schema.json",
+      "sha256": "b2e34b20c2943c735bfd75461a8e486922e14ccc7cf26b986efc2a0214846963"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Temurah.json",
+      "file": "data/jewish-source/bavli/Temurah-schema.json",
+      "sha256": "4609454a562964430d3fb8970a8c4e814efa108093fd6b59aa60d850150c1e20"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Keritot.json",
+      "file": "data/jewish-source/bavli/Keritot-schema.json",
+      "sha256": "3a8cdf77394032e9cfee754c6404bd242846e89996b4bfdeb7dc0db3d57b4b48"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Meilah.json",
+      "file": "data/jewish-source/bavli/Meilah-schema.json",
+      "sha256": "815074654641ec45e061d8e106b22ee2a3ad60279a44bd1fcefe0240f752ea52"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Tamid.json",
+      "file": "data/jewish-source/bavli/Tamid-schema.json",
+      "sha256": "efe76313a7db87a7947bb087a6b530706858b47c9c8e80a894d5514d96f26bad"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Niddah.json",
+      "file": "data/jewish-source/bavli/Niddah-schema.json",
+      "sha256": "c37f9c54106fc15ec02d7256e543a0b27aa6fe7c15a191ea06ce6ec36f3bf1b1"
+    }
+  ],
+  "coverage": {
+    "Berakhot": {
+      "original": 2749,
+      "english": 2740,
+      "segments": 2749
+    },
+    "Shabbat": {
+      "original": 3778,
+      "english": 3754,
+      "segments": 3778
+    },
+    "Eruvin": {
+      "original": 3646,
+      "english": 3636,
+      "segments": 3646
+    },
+    "Pesachim": {
+      "original": 3519,
+      "english": 3509,
+      "segments": 3519
+    },
+    "Rosh Hashanah": {
+      "original": 1025,
+      "english": 1021,
+      "segments": 1025
+    },
+    "Yoma": {
+      "original": 2271,
+      "english": 2263,
+      "segments": 2271
+    },
+    "Sukkah": {
+      "original": 1361,
+      "english": 1356,
+      "segments": 1361
+    },
+    "Beitzah": {
+      "original": 1151,
+      "english": 1146,
+      "segments": 1151
+    },
+    "Taanit": {
+      "original": 895,
+      "english": 891,
+      "segments": 895
+    },
+    "Megillah": {
+      "original": 1213,
+      "english": 1209,
+      "segments": 1213
+    },
+    "Moed Katan": {
+      "original": 1026,
+      "english": 1023,
+      "segments": 1026
+    },
+    "Chagigah": {
+      "original": 735,
+      "english": 732,
+      "segments": 735
+    },
+    "Yevamot": {
+      "original": 3869,
+      "english": 3853,
+      "segments": 3869
+    },
+    "Ketubot": {
+      "original": 3038,
+      "english": 3025,
+      "segments": 3038
+    },
+    "Nedarim": {
+      "original": 1509,
+      "english": 1498,
+      "segments": 1509
+    },
+    "Nazir": {
+      "original": 1299,
+      "english": 1290,
+      "segments": 1299
+    },
+    "Sotah": {
+      "original": 1635,
+      "english": 1626,
+      "segments": 1635
+    },
+    "Gittin": {
+      "original": 2992,
+      "english": 2983,
+      "segments": 2992
+    },
+    "Kiddushin": {
+      "original": 2406,
+      "english": 2402,
+      "segments": 2406
+    },
+    "Bava Kamma": {
+      "original": 4314,
+      "english": 4304,
+      "segments": 4314
+    },
+    "Bava Metzia": {
+      "original": 3660,
+      "english": 3650,
+      "segments": 3660
+    },
+    "Bava Batra": {
+      "original": 3804,
+      "english": 3794,
+      "segments": 3804
+    },
+    "Sanhedrin": {
+      "original": 4171,
+      "english": 4160,
+      "segments": 4171
+    },
+    "Makkot": {
+      "original": 709,
+      "english": 706,
+      "segments": 709
+    },
+    "Shevuot": {
+      "original": 1555,
+      "english": 1547,
+      "segments": 1555
+    },
+    "Avodah Zarah": {
+      "original": 2131,
+      "english": 2126,
+      "segments": 2131
+    },
+    "Horayot": {
+      "original": 451,
+      "english": 448,
+      "segments": 451
+    },
+    "Zevachim": {
+      "original": 3817,
+      "english": 3803,
+      "segments": 3817
+    },
+    "Menachot": {
+      "original": 3783,
+      "english": 3770,
+      "segments": 3783
+    },
+    "Chullin": {
+      "original": 4393,
+      "english": 4381,
+      "segments": 4393
+    },
+    "Bekhorot": {
+      "original": 1957,
+      "english": 1948,
+      "segments": 1957
+    },
+    "Arakhin": {
+      "original": 1183,
+      "english": 1175,
+      "segments": 1183
+    },
+    "Temurah": {
+      "original": 1150,
+      "english": 1143,
+      "segments": 1150
+    },
+    "Keritot": {
+      "original": 1211,
+      "english": 1205,
+      "segments": 1211
+    },
+    "Meilah": {
+      "original": 515,
+      "english": 509,
+      "segments": 515
+    },
+    "Tamid": {
+      "original": 207,
+      "english": 200,
+      "segments": 207
+    },
+    "Niddah": {
+      "original": 2665,
+      "english": 2655,
+      "segments": 2665
+    }
+  },
+  "works": 37,
+  "books": 37,
+  "transformations": [
+    "HTML formatting flattened for terminal display; source HTML retained.",
+    "Inline edition footnotes separated from main text; original edition text is never machine-translated.",
+    "Native references retained; missing translations are represented as gaps."
+  ]
+}

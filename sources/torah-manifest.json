@@ -1,0 +1,108 @@
+{
+  "collection": "Torah",
+  "provider": "Sefaria",
+  "retrieved": "2026-10-26",
+  "licenseMetadata": "https://www.sefaria.org/api/texts/versions/{book}",
+  "entries": [
+    {
+      "book": "Genesis",
+      "language": "he",
+      "filename": "Genesis-he.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Genesis/Hebrew/Tanach%20with%20Ta%27amei%20Hamikra.json",
+      "sha256": "ddd1770eb57914388dfcc86669a7cff410c79203f1f5b767ffec1d7876bbab51",
+      "versionTitle": "Tanach with Ta'amei Hamikra",
+      "license": "Public Domain",
+      "versionSource": "http://www.tanach.us/Tanach.xml"
+    },
+    {
+      "book": "Genesis",
+      "language": "en",
+      "filename": "Genesis-en.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Genesis/English/The%20Holy%20Scriptures%20A%20New%20Translation%20JPS%201917.json",
+      "sha256": "ad1d64986bb4dc2bce6c8f09fc90c83dcaee9b1eaf7545cdeca4051584456543",
+      "versionTitle": "The Holy Scriptures: A New Translation (JPS 1917)",
+      "license": "Public Domain",
+      "versionSource": "http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+    },
+    {
+      "book": "Exodus",
+      "language": "he",
+      "filename": "Exodus-he.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Exodus/Hebrew/Tanach%20with%20Ta%27amei%20Hamikra.json",
+      "sha256": "a2e2a8bf617b24f1d392c6e102223b892a1d6aac94a21d97428fa4442edcd2c2",
+      "versionTitle": "Tanach with Ta'amei Hamikra",
+      "license": "Public Domain",
+      "versionSource": "http://www.tanach.us/Tanach.xml"
+    },
+    {
+      "book": "Exodus",
+      "language": "en",
+      "filename": "Exodus-en.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Exodus/English/The%20Holy%20Scriptures%20A%20New%20Translation%20JPS%201917.json",
+      "sha256": "06f24083680cc4395af49c85c51bac81d827d2016f53bb73b8b89c5c8484cdfe",
+      "versionTitle": "The Holy Scriptures: A New Translation (JPS 1917)",
+      "license": "Public Domain",
+      "versionSource": "http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+    },
+    {
+      "book": "Leviticus",
+      "language": "he",
+      "filename": "Leviticus-he.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Leviticus/Hebrew/Tanach%20with%20Ta%27amei%20Hamikra.json",
+      "sha256": "c9ca4817dd47afb5dc251d29d7f315677c6a60e1b3ed61831ce2648eef9af9c0",
+      "versionTitle": "Tanach with Ta'amei Hamikra",
+      "license": "Public Domain",
+      "versionSource": "http://www.tanach.us/Tanach.xml"
+    },
+    {
+      "book": "Leviticus",
+      "language": "en",
+      "filename": "Leviticus-en.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Leviticus/English/The%20Holy%20Scriptures%20A%20New%20Translation%20JPS%201917.json",
+      "sha256": "057450f70b8c82c742d250ed64f714c35a8d315fa15c1bc19caec6f2bd7d9f5f",
+      "versionTitle": "The Holy Scriptures: A New Translation (JPS 1917)",
+      "license": "Public Domain",
+      "versionSource": "http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+    },
+    {
+      "book": "Numbers",
+      "language": "he",
+      "filename": "Numbers-he.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Numbers/Hebrew/Tanach%20with%20Ta%27amei%20Hamikra.json",
+      "sha256": "f88a953465c7db3778e0084fd77f2dd6d44f70aced3c36f48f482227bfc747cf",
+      "versionTitle": "Tanach with Ta'amei Hamikra",
+      "license": "Public Domain",
+      "versionSource": "http://www.tanach.us/Tanach.xml"
+    },
+    {
+      "book": "Numbers",
+      "language": "en",
+      "filename": "Numbers-en.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Numbers/English/The%20Holy%20Scriptures%20A%20New%20Translation%20JPS%201917.json",
+      "sha256": "95094e170cd2b6124824c8fb9b5a4d98a8254001a3b8f680bf48413d136166e5",
+      "versionTitle": "The Holy Scriptures: A New Translation (JPS 1917)",
+      "license": "Public Domain",
+      "versionSource": "http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+    },
+    {
+      "book": "Deuteronomy",
+      "language": "he",
+      "filename": "Deuteronomy-he.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Deuteronomy/Hebrew/Tanach%20with%20Ta%27amei%20Hamikra.json",
+      "sha256": "614b632fdf94bfa7fa0065e9ce218dd2c83682979413251f09579239fcdf278d",
+      "versionTitle": "Tanach with Ta'amei Hamikra",
+      "license": "Public Domain",
+      "versionSource": "http://www.tanach.us/Tanach.xml"
+    },
+    {
+      "book": "Deuteronomy",
+      "language": "en",
+      "filename": "Deuteronomy-en.json",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Torah/Deuteronomy/English/The%20Holy%20Scriptures%20A%20New%20Translation%20JPS%201917.json",
+      "sha256": "89ddae811c76468bd2d78a3f4a006a046b3e2fe3c2b4142fb0735ab1974863c5",
+      "versionTitle": "The Holy Scriptures: A New Translation (JPS 1917)",
+      "license": "Public Domain",
+      "versionSource": "http://opensiddur.org/2010/08/%D7%AA%D7%A0%D7%B4%D7%9A-the-holy-scriptures-a-new-translation-jps-1917/"
+    }
+  ]
+}

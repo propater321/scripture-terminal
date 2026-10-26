@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Scripture Terminal — combined workspace</title>
+  <link rel="stylesheet" href="/xterm.css">
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, sans-serif; background:#0c1015; color:#dce4ec; }
+    * { box-sizing:border-box; }
+    body { margin:0; padding:28px 32px 18px; }
+    header { display:flex; justify-content:space-between; align-items:center; gap:20px; margin-bottom:22px; }
+    .eyebrow { color:#8b9cad; letter-spacing:.2em; font-size:11px; text-transform:uppercase; }
+    h1 { font-size:26px; font-weight:500; margin:6px 0 0; letter-spacing:-.6px; }
+    .status { color:#8b9cad; font-size:12px; }
+    nav { display:grid; grid-template-columns:repeat(3,1fr); gap:12px; margin-bottom:18px; }
+    button { font:inherit; color:inherit; cursor:pointer; }
+    .choice { background:#131b24; text-align:left; padding:16px 20px; border:1px solid #2a3643; border-radius:6px; }
+    .choice:hover { background:#1d2d3d; border-color:#94c7e8; }
+    .choice:disabled { opacity:.5; cursor:default; }
+    .choice strong { display:block; font-weight:500; font-size:15px; margin-bottom:6px; }
+    .choice span { color:#a1afbd; font-size:12px; line-height:1.5; }
+    button:focus-visible { outline:2px solid #94c7e8; outline-offset:3px; }
+    .terminal-frame { border:1px solid #2a3643; border-radius:8px; overflow:hidden; background:#10151d; }
+    .terminal-bar { padding:11px 16px; background:#151c26; display:flex; justify-content:space-between; align-items:center; font:12px ui-monospace,monospace; color:#a1afbd; }
+    #reconnect { background:none; border:0; color:#94c7e8; padding:2px 8px; }
+    #terminal { height:calc(100vh - 286px); min-height:400px; padding:12px; }
+    footer { display:flex; flex-wrap:wrap; justify-content:space-between; gap:8px; color:#8b9cad; font-size:12px; margin-top:12px; line-height:1.6; }
+    kbd { font-family:ui-monospace,monospace; color:#cdd9e3; }
+    @media(max-width:700px) { body { padding:16px 12px; } header { align-items:flex-start; } nav { gap:6px; } .choice { padding:12px 10px; } .choice span { display:none; } #terminal { height:calc(100vh - 240px); } .status { max-width:120px; text-align:right; } }
+  </style>
+</head>
+<body>
+  <header><div><div class="eyebrow">Scripture / one workspace</div><h1>Read. Compare. See the whole story.</h1></div><div class="status">Full KJV + WEB corpus<br>Runs locally · works offline</div></header>
+  <nav aria-label="Try a workspace layout">
+    <button class="choice" data-preset="1" disabled><strong>Show study layout</strong><span>Results left. Passage center. Comparison right.</span></button>
+    <button class="choice" data-preset="3" disabled><strong>Open Atlas below</strong><span>Add the canon map without leaving your passage.</span></button>
+    <button class="choice" data-preset="2" disabled><strong>Focus on reading</strong><span>Hide the panels. Press f to bring them back.</span></button>
+  </nav>
+  <section class="terminal-frame" aria-label="Live Bible terminal">
+    <div class="terminal-bar"><span id="session-status" role="status">Connecting…</span><button id="reconnect">Restart session ↗</button></div>
+    <div id="terminal"></div>
+  </section>
+  <footer><span><kbd>r</kbd> results · <kbd>c</kbd> compare · <kbd>a</kbd> Atlas · <kbd>i</kbd> Ask with Codex · <kbd>f</kbd> focus · <kbd>/</kbd> search · <kbd>?</kbd> help</span><span>All layouts share your passage, search, and saved verses.</span></footer>
+  <script src="/xterm.js"></script><script src="/fit.js"></script>
+  <script>
+    const terminal = new Terminal({ cursorBlink:true, fontSize:14, fontFamily:'"DejaVu Sans Mono", "Liberation Mono", monospace', lineHeight:1.18, theme:{background:'#10151d',foreground:'#dce4ec'}, allowProposedApi:true, scrollback:100, convertEol:true });
+    const fit = new FitAddon.FitAddon(); terminal.loadAddon(fit); terminal.open(document.getElementById('terminal')); fit.fit();
+    let socket;
+    const status = document.getElementById('session-status');
+    const send = event => { if(socket?.readyState===WebSocket.OPEN) socket.send(JSON.stringify(event)); };
+    function connect() {
+      document.querySelectorAll('.choice').forEach(button=>button.disabled=true);
+      if(socket) { socket.onclose=null; socket.close(); }
+      terminal.reset(); fit.fit(); status.textContent='Connecting…';
+      socket=new WebSocket(`ws://${location.host}/terminal?mode=workspace&cols=${terminal.cols}&rows=${terminal.rows}`); socket.binaryType='arraybuffer';
+      socket.onopen=()=>{ status.textContent='bible / workspace — live terminal'; document.querySelectorAll('.choice').forEach(button=>button.disabled=false); terminal.focus(); };
+      socket.onmessage=event=>terminal.write(new Uint8Array(event.data));
+      socket.onclose=()=>{status.textContent='Session ended — restart to continue';document.querySelectorAll('.choice').forEach(button=>button.disabled=true);};
+      socket.onerror=()=>{status.textContent='Connection failed — run bun run preview';};
+    }
+    terminal.onData(data=>send({type:'input',data}));
+    terminal.onResize(({cols,rows})=>send({type:'resize',cols,rows}));
+    new ResizeObserver(()=>fit.fit()).observe(document.getElementById('terminal'));
+    document.querySelectorAll('.choice').forEach(button=>button.addEventListener('click',()=>{send({type:'input',data:({'1':'\x1bOP','2':'\x1bOQ','3':'\x1bOR'})[button.dataset.preset]});terminal.focus();}));
+    document.getElementById('reconnect').addEventListener('click',connect);
+    connect();
+  </script>
+</body>
+</html>

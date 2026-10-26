@@ -1,0 +1,443 @@
+{
+  "library": "midrash",
+  "name": "Midrash",
+  "retrieved": "2026-10-26T11:33:19Z",
+  "sources": [
+    {
+      "work": "Bereshit Rabbah",
+      "edition": "original",
+      "versionTitle": "Daat Bereshit Rabbah",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.daat.ac.il/daat/tanach/raba1/1.htm",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Bereshit%20Rabbah/Hebrew/Daat%20Bereshit%20Rabbah.json",
+      "file": "data/jewish-source/midrash/Bereshit_Rabbah-original.json",
+      "sha256": "b906d758768425fafb38da053cb395ecbd1c02546c8f28208abdc9ac2b0912a5"
+    },
+    {
+      "work": "Bereshit Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.sefaria.org/texts",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Bereshit%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Bereshit_Rabbah-english.json",
+      "sha256": "7e57e310d68ed2779cc041518ef596c706e288a807c41dcb4fd610e339edb119"
+    },
+    {
+      "work": "Shemot Rabbah",
+      "edition": "original",
+      "versionTitle": "Daat Shemot Rabbah",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.daat.ac.il/daat/tanach/raba2/1.htm",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shemot%20Rabbah/Hebrew/Daat%20Shemot%20Rabbah.json",
+      "file": "data/jewish-source/midrash/Shemot_Rabbah-original.json",
+      "sha256": "faf432207d8554a50ed4b6411a179b540c1950d807d37a6b3f60198da9dcef6a"
+    },
+    {
+      "work": "Shemot Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.sefaria.org/texts",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shemot%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Shemot_Rabbah-english.json",
+      "sha256": "78fed0e972f9f428aeeabb41f6f645df2547f958be6231c575cdce916dc617cc"
+    },
+    {
+      "work": "Vayikra Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://sefaria.org/",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Vayikra%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Vayikra_Rabbah-english.json",
+      "sha256": "e0b176fe73f85b335d03291a6f5fc04a8878872788a4616e0d26addc30aa264f"
+    },
+    {
+      "work": "Bamidbar Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.sefaria.org/texts",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Bamidbar%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Bamidbar_Rabbah-english.json",
+      "sha256": "1b8c75415bbb28a03e8218cb46555b35022f45b1b066e35e37edb9c1c9041f7c"
+    },
+    {
+      "work": "Devarim Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.sefaria.org/texts",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Devarim_Rabbah-english.json",
+      "sha256": "789f56bf4c4485b1ec6f62e5db986c7acc7c6158f39f64555709087413adb2f8"
+    },
+    {
+      "work": "Shir HaShirim Rabbah",
+      "edition": "original",
+      "versionTitle": "Midrash Rabbah -- TE",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/online/f_01638.html",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shir%20HaShirim%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+      "file": "data/jewish-source/midrash/Shir_HaShirim_Rabbah-original.json",
+      "sha256": "41a91e50d0e87f674101c988bbc3529d06d24de19bbbc6b0ca88356593890606"
+    },
+    {
+      "work": "Shir HaShirim Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shir%20HaShirim%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Shir_HaShirim_Rabbah-english.json",
+      "sha256": "0d4b6d0bc92b9d13999dbe09feb20b54ebad317a5536dc47a74bf76ce7f90e44"
+    },
+    {
+      "work": "Ruth Rabbah",
+      "edition": "original",
+      "versionTitle": "Midrash Rabbah -- TE",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/online/f_01639.html",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Ruth%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+      "file": "data/jewish-source/midrash/Ruth_Rabbah-original.json",
+      "sha256": "48de445dbe023ee5864dc629395d1487e1a477a7c0ac421fada24162c45d9172"
+    },
+    {
+      "work": "Ruth Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Ruth%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Ruth_Rabbah-english.json",
+      "sha256": "38a269d4e047de4bc5da3d027910559ad967e89d758c10d808c86b92388459d9"
+    },
+    {
+      "work": "Esther Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Esther%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Esther_Rabbah-english.json",
+      "sha256": "307fbdd4dc76d4c0580b4adddaef7424a1c3bef0b4ee7855163f74fda5375256"
+    },
+    {
+      "work": "Kohelet Rabbah",
+      "edition": "original",
+      "versionTitle": "Midrash Rabbah -- TE",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/online/f_01641.html",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Kohelet%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+      "file": "data/jewish-source/midrash/Kohelet_Rabbah-original.json",
+      "sha256": "0f3e83e4eead6ff6b930349d68a48e8c4d47f815174f0dbe387d956f25e57e30"
+    },
+    {
+      "work": "Kohelet Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Kohelet%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Kohelet_Rabbah-english.json",
+      "sha256": "75702aae8ba61388a439164dea0106d12eae31de328cc12c1e87d2eb7b327f1e"
+    },
+    {
+      "work": "Eikhah Rabbah",
+      "edition": "original",
+      "versionTitle": "Midrash Rabbah -- TE",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/online/f_01640.html",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Eikhah%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+      "file": "data/jewish-source/midrash/Eikhah_Rabbah-original.json",
+      "sha256": "842a3c8718782ef90f330c8b015168fe5c841e674a6fa9dac62336a09c77424c"
+    },
+    {
+      "work": "Eikhah Rabbah",
+      "edition": "english",
+      "versionTitle": "The Sefaria Midrash Rabbah, 2022",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Eikhah%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+      "file": "data/jewish-source/midrash/Eikhah_Rabbah-english.json",
+      "sha256": "0513c5c737ecf9ee98e84334ddca9495b9665e30ae177ea7ac1e4465fce78df8"
+    },
+    {
+      "work": "Midrash Tanchuma",
+      "edition": "original",
+      "versionTitle": "Midrash Tanchuma -- Torat Emet",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "http://www.toratemetfreeware.com/online/a_root.html",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Tanchuma/Hebrew/Midrash%20Tanchuma%20--%20Torat%20Emet.json",
+      "file": "data/jewish-source/midrash/Midrash_Tanchuma-original.json",
+      "sha256": "5a8401d80c3bc45ea63421f1c91a7620d2a5ed6f1d036b56fa1cb2fb3ed4eac9"
+    },
+    {
+      "work": "Midrash Tanchuma",
+      "edition": "english",
+      "versionTitle": "Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001350458",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Tanchuma/English/Midrash%20Tanhuma-Yelammedenu%2C%20trans.%20Samuel%20A.%20Berman.json",
+      "file": "data/jewish-source/midrash/Midrash_Tanchuma-english.json",
+      "sha256": "1e5e1bf60f8eefb4abe24725f625d68c08cb61ceeaaa95439616c6cdedf9c648"
+    },
+    {
+      "work": "Mekhilta DeRabbi Yishmael",
+      "edition": "original",
+      "versionTitle": "Beeri Edition, Koren, Jerusalem, 2019",
+      "language": "he",
+      "license": "CC-BY-NC",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH005271179/NLI",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Mekhilta%20DeRabbi%20Yishmael/Hebrew/Beeri%20Edition%2C%20Koren%2C%20Jerusalem%2C%202019.json",
+      "file": "data/jewish-source/midrash/Mekhilta_DeRabbi_Yishmael-original.json",
+      "sha256": "6eaa2ea11c112c2903ec176bf7e00be15d0cb0cea5cf41da273b6f768a87e6f1"
+    },
+    {
+      "work": "Mekhilta DeRabbi Yishmael",
+      "edition": "english",
+      "versionTitle": "Mechilta, translated by Rabbi Shraga Silverstein",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://www.sefaria.org/shraga-silverstein",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Mekhilta%20DeRabbi%20Yishmael/English/Mechilta%2C%20translated%20by%20Rabbi%20Shraga%20Silverstein.json",
+      "file": "data/jewish-source/midrash/Mekhilta_DeRabbi_Yishmael-english.json",
+      "sha256": "04bfb5a62f5ebae34cc49cdc3db1e66ac08d6fbdd65a8f809b9083b837a4ddf4"
+    },
+    {
+      "work": "Sifra",
+      "edition": "english",
+      "versionTitle": "Sifra by Rabbi Shraga Silverstein",
+      "language": "en",
+      "license": "CC-BY",
+      "versionSource": "http://www.sefaria.org/shraga-silverstein",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+      "file": "data/jewish-source/midrash/Sifra-english.json",
+      "sha256": "1508fcd95f909aa061fc0ca1963912e77e8ab7bc177d2de4abc151faee971271"
+    },
+    {
+      "work": "Sifrei Bamidbar",
+      "edition": "original",
+      "versionTitle": "Wikisource",
+      "language": "he",
+      "license": "CC-BY-SA",
+      "versionSource": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%D7%99",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifrei%20Bamidbar/Hebrew/Wikisource.json",
+      "file": "data/jewish-source/midrash/Sifrei_Bamidbar-original.json",
+      "sha256": "d9a52e2786517d1ed278d1fc07713fe4fb74a76c916c116974b6d618294ff160"
+    },
+    {
+      "work": "Sifrei Bamidbar",
+      "edition": "english",
+      "versionTitle": "Sefaria Community Translation",
+      "language": "en",
+      "license": "CC0",
+      "versionSource": "https://www.sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifrei%20Bamidbar/English/Sefaria%20Community%20Translation.json",
+      "file": "data/jewish-source/midrash/Sifrei_Bamidbar-english.json",
+      "sha256": "faf0961f4f685ac93332b1945bd86285aafa30f9061e4843929b19f1d980e3e2"
+    },
+    {
+      "work": "Sifrei Devarim",
+      "edition": "original",
+      "versionTitle": "Sifrei Devarim, Hebrew",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%D7%99_%D7%A2%D7%9C_%D7%93%D7%91%D7%A8%D7%99%D7%9D",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifrei%20Devarim/Hebrew/Sifrei%20Devarim%2C%20Hebrew.json",
+      "file": "data/jewish-source/midrash/Sifrei_Devarim-original.json",
+      "sha256": "6cec112268dc5a81fcd05b1f32be255974f335f3ea5eb6aa9496481f820d754d"
+    },
+    {
+      "work": "Sifrei Devarim",
+      "edition": "english",
+      "versionTitle": "Sefaria Community Translation",
+      "language": "en",
+      "license": "CC0",
+      "versionSource": "https://www.sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifrei%20Devarim/English/Sefaria%20Community%20Translation.json",
+      "file": "data/jewish-source/midrash/Sifrei_Devarim-english.json",
+      "sha256": "58c1d641813518eca351cc083c2493187b915b9b1fcb162de212dff428ed6311"
+    }
+  ],
+  "schemas": [
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Bereshit_Rabbah.json",
+      "file": "data/jewish-source/midrash/Bereshit_Rabbah-schema.json",
+      "sha256": "cd5cc0ba743ee77bd4b84231e02451486de497be4fe0c4f812538c2d81fd20f6"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Shemot_Rabbah.json",
+      "file": "data/jewish-source/midrash/Shemot_Rabbah-schema.json",
+      "sha256": "f76b6d0f111e06367cd26f9aa91576d2a7a15182d793252cf38e690034961338"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Vayikra_Rabbah.json",
+      "file": "data/jewish-source/midrash/Vayikra_Rabbah-schema.json",
+      "sha256": "2efde1d31f3dc67ab5baa3fc0acb4cf896bbd47623f94b28dc0b2f1603870fa5"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Bamidbar_Rabbah.json",
+      "file": "data/jewish-source/midrash/Bamidbar_Rabbah-schema.json",
+      "sha256": "66aca434a961424fc56d958ee8c5b800b65ece46776ac43e8d706d36b78fee79"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Devarim_Rabbah.json",
+      "file": "data/jewish-source/midrash/Devarim_Rabbah-schema.json",
+      "sha256": "11c27cc14edba2c82a70506c9fa6f7ed51c3d18000a072a5de89e7adba35892c"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Shir_HaShirim_Rabbah.json",
+      "file": "data/jewish-source/midrash/Shir_HaShirim_Rabbah-schema.json",
+      "sha256": "630ddf1a56ffb13fe643a2a5d7f8e843ba56fd0e69177d6d02987bd23bc914a6"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Ruth_Rabbah.json",
+      "file": "data/jewish-source/midrash/Ruth_Rabbah-schema.json",
+      "sha256": "32d2827f0fee2ae9c76610f55dd1427afb78431b01fecc998b654bedff79277f"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Esther_Rabbah.json",
+      "file": "data/jewish-source/midrash/Esther_Rabbah-schema.json",
+      "sha256": "06473b4bc20faa51fee9c06edc130890b6b8bdc9caba1121a3c635282dc53909"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Kohelet_Rabbah.json",
+      "file": "data/jewish-source/midrash/Kohelet_Rabbah-schema.json",
+      "sha256": "4de04c188addf921442a64a2540fc798cb08a6b2f7f85c807fdb50f6cabba408"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Eikhah_Rabbah.json",
+      "file": "data/jewish-source/midrash/Eikhah_Rabbah-schema.json",
+      "sha256": "fe6e6e410883fedb6e58cce8fddff34cb7d7d367e563bb7d5f56e3d3e2a81c5b"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Midrash_Tanchuma.json",
+      "file": "data/jewish-source/midrash/Midrash_Tanchuma-schema.json",
+      "sha256": "03775794f82e32aa6a9455956a3904371ca1a2c254cf8fa45738ae61897786f2"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Mekhilta_DeRabbi_Yishmael.json",
+      "file": "data/jewish-source/midrash/Mekhilta_DeRabbi_Yishmael-schema.json",
+      "sha256": "a74e2fb737e98aed412d000c8b30ad687e43bad62607a776a5b35c4ca244e366"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Sifra.json",
+      "file": "data/jewish-source/midrash/Sifra-schema.json",
+      "sha256": "44247d22349d3c5086f7195271130388449aa4f9e4ffb790c001fc904fa02128"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Sifrei_Bamidbar.json",
+      "file": "data/jewish-source/midrash/Sifrei_Bamidbar-schema.json",
+      "sha256": "109f635c319e5e49539557eae7fe7b0de3354cb5ed29ced4b58a8143c0fc2f8f"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Sifrei_Devarim.json",
+      "file": "data/jewish-source/midrash/Sifrei_Devarim-schema.json",
+      "sha256": "653a0333f9b811d0daac0ef09c88174715e51459a2a07b8b03f31a7384d86ebf"
+    }
+  ],
+  "coverage": {
+    "Bereshit Rabbah": {
+      "original": 837,
+      "english": 1036,
+      "segments": 1036
+    },
+    "Shemot Rabbah": {
+      "original": 460,
+      "english": 464,
+      "segments": 464
+    },
+    "Vayikra Rabbah": {
+      "original": 0,
+      "english": 330,
+      "segments": 330
+    },
+    "Bamidbar Rabbah": {
+      "original": 0,
+      "english": 444,
+      "segments": 444
+    },
+    "Devarim Rabbah": {
+      "original": 0,
+      "english": 160,
+      "segments": 160
+    },
+    "Shir HaShirim Rabbah": {
+      "original": 264,
+      "english": 264,
+      "segments": 264
+    },
+    "Ruth Rabbah": {
+      "original": 88,
+      "english": 88,
+      "segments": 88
+    },
+    "Esther Rabbah": {
+      "original": 0,
+      "english": 136,
+      "segments": 136
+    },
+    "Kohelet Rabbah": {
+      "original": 271,
+      "english": 271,
+      "segments": 271
+    },
+    "Eikhah Rabbah": {
+      "original": 186,
+      "english": 186,
+      "segments": 186
+    },
+    "Midrash Tanchuma": {
+      "original": 2121,
+      "english": 1726,
+      "segments": 2122
+    },
+    "Mekhilta DeRabbi Yishmael": {
+      "original": 2043,
+      "english": 1945,
+      "segments": 2043
+    },
+    "Sifra": {
+      "original": 0,
+      "english": 2741,
+      "segments": 2741
+    },
+    "Sifrei Bamidbar": {
+      "original": 295,
+      "english": 3,
+      "segments": 295
+    },
+    "Sifrei Devarim": {
+      "original": 2324,
+      "english": 35,
+      "segments": 2326
+    }
+  },
+  "works": 15,
+  "books": 354,
+  "transformations": [
+    "HTML formatting flattened for terminal display; source HTML retained.",
+    "Inline edition footnotes separated from main text; original edition text is never machine-translated.",
+    "Native references retained; missing translations are represented as gaps."
+  ]
+}

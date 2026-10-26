@@ -1,0 +1,80 @@
+{
+  "name": "scripture-terminal",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "bun src/main.tsx",
+    "study": "bun src/main.tsx study",
+    "reader": "bun src/main.tsx reader",
+    "atlas": "bun src/main.tsx atlas",
+    "explore": "bun src/main.tsx explore",
+    "import": "bun scripts/import.ts",
+    "import:links": "python3 scripts/import-crossrefs.py",
+    "setup:search": "uv venv .venv-search --python 3.12 && uv pip install --python .venv-search/bin/python --require-hashes -r scripts/requirements-search.lock && .venv-search/bin/python scripts/search-model.py prepare",
+    "index:semantic": ".venv-search/bin/python scripts/search-model.py build",
+    "preview": "bun scripts/preview.ts",
+    "test": "bun test",
+    "check": "tsc --noEmit",
+    "check:codex": "bun scripts/check-codex.tsx",
+    "check:research": "bun scripts/check-research.ts",
+    "evaluate:search": "bun scripts/evaluate-search.ts",
+    "torah": "bun src/main.tsx torah",
+    "import:torah": "python3 scripts/import-torah.py",
+    "setup:torah-search": ".venv-search/bin/python scripts/search-model.py prepare --library torah",
+    "index:torah": ".venv-search/bin/python scripts/search-model.py build --library torah",
+    "import:torah-links": "python3 scripts/import-torah-links.py",
+    "import:jewish": "python3 scripts/import-jewish.py",
+    "index:jewish": ".venv-search/bin/python scripts/index-jewish.py",
+    "import:jewish-links": "python3 scripts/import-jewish-links.py",
+    "bavli": "bun src/main.tsx bavli",
+    "yerushalmi": "bun src/main.tsx yerushalmi",
+    "mishnah": "bun src/main.tsx mishnah",
+    "midrash": "bun src/main.tsx midrash",
+    "zohar": "bun src/main.tsx zohar",
+    "shulchan": "bun src/main.tsx shulchan",
+    "doctor": "bun scripts/doctor.ts",
+    "test:unit": "bun test tests/unit",
+    "test:integration": "bun scripts/test-integration.ts",
+    "check:release": "bun scripts/check-release.ts",
+    "check:imports": "python3 -m unittest discover -s tests/python -p \"test_*.py\"",
+    "bundle:source": "bun scripts/package-source.ts"
+  },
+  "dependencies": {
+    "@opentui/core": "0.6.8",
+    "@opentui/react": "0.6.8",
+    "react": "19.2.0"
+  },
+  "devDependencies": {
+    "@types/bun": "1.4.4",
+    "@types/react": "19.2.2",
+    "@xterm/headless": "5.5.0",
+    "typescript": "5.9.3",
+    "@xterm/xterm": "5.5.0",
+    "@xterm/addon-fit": "0.10.0"
+  },
+  "version": "0.1.0",
+  "description": "A native terminal workspace for reading, exploring and asking questions about the Bible and Jewish texts.",
+  "license": "MIT",
+  "engines": {
+    "bun": ">=1.4.4"
+  },
+  "packageManager": "bun@1.4.4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/propater321/scripture-terminal.git"
+  },
+  "homepage": "https://github.com/propater321/scripture-terminal#readme",
+  "bugs": {
+    "url": "https://github.com/propater321/scripture-terminal/issues"
+  },
+  "keywords": [
+    "terminal",
+    "tui",
+    "bible",
+    "torah",
+    "talmud",
+    "sqlite",
+    "semantic-search",
+    "codex"
+  ]
+}

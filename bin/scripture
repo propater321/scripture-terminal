@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [[ ${1:-} == --help || ${1:-} == -h ]]; then
+  cat <<'HELP'
+Scripture Terminal — Bible and Jewish texts in your terminal
+
+Usage: scripture [workspace|study|reader|atlas|explore|torah|bavli|yerushalmi|mishnah|midrash|zohar|shulchan]
+
+The combined workspace is the default.
+Choose a library for Read, Explore, Topics, Ask and Atlas. F5 opens all libraries.
+English and original-language availability depends on the installed edition.
+  / search  ·  x Explore  ·  a Atlas  ·  c compare  ·  i Ask  ·  f focus  ·  ? help  ·  q quit
+HELP
+  exit 0
+fi
+
+scripture_root="$(dirname -- "$(readlink -f -- "${BASH_SOURCE[0]}")")/.."
+cd -- "$scripture_root"
+# Desktop launchers may omit the paths normally added by an interactive shell.
+export PATH="$PATH:$HOME/.local/share/mise/command-wrappers/bin:$HOME/.local/share/mise/shims:$HOME/.bun/bin"
+if ! command -v bun >/dev/null 2>&1; then
+  echo 'Scripture Terminal needs Bun installed and available on PATH.' >&2
+  exit 1
+fi
+exec bun src/main.tsx "$@"

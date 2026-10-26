@@ -1,0 +1,45 @@
+name: Release checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: checks-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  source:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2
+        with:
+          bun-version: 1.4.4
+      - run: bun install --frozen-lockfile
+      - run: bun run check:release
+      - run: bun audit
+      - name: Audit optional Python runtime
+        run: |
+          python3 -m venv /tmp/scripture-audit
+          /tmp/scripture-audit/bin/pip install pip-audit==2.10.1
+          /tmp/scripture-audit/bin/pip-audit -r scripts/requirements-search.lock --no-deps --disable-pip
+      - run: bun run bundle:source
+  bible-integration:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6 # v2
+        with:
+          bun-version: 1.4.4
+      - run: bun install --frozen-lockfile
+      - run: bun run import
+      - run: bun run import:links
+      - run: bun run test:integration
+      - run: bun scripts/check-explore.ts

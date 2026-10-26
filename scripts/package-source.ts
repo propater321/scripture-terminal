@@ -1,0 +1,12 @@
+import { mkdir, writeFile } from 'node:fs/promises';
+import { join } from 'node:path';
+import { releaseFiles, validateReleaseFiles, root } from './release-files';
+import { version } from '../package.json';
+const files=await releaseFiles();await validateReleaseFiles(files);
+const destination=join(root,'dist');await mkdir(destination,{recursive:true});
+const path=join(destination,`scripture-${version}-source.tar.gz`);
+const child=Bun.spawn(['tar','--no-recursion','--null','-czf',path,'-T','-'],{cwd:root,stdin:'pipe',stdout:'inherit',stderr:'inherit'});
+child.stdin.write(files.join('\0')+'\0');child.stdin.end();if(await child.exited)throw new Error('Source packaging failed.');
+const sha=new Bun.CryptoHasher('sha256').update(await Bun.file(path).arrayBuffer()).digest('hex');
+await writeFile(path+'.sha256',`${sha}  scripture-${version}-source.tar.gz\n`);
+console.log(`Created ${path} (${files.length} source files, no downloaded corpora, bookmarks or models).`);

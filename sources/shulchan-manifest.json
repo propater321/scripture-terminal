@@ -1,0 +1,146 @@
+{
+  "library": "shulchan",
+  "name": "Shulchan Aruch",
+  "retrieved": "2026-10-26T11:33:26Z",
+  "sources": [
+    {
+      "work": "Shulchan Arukh, Orach Chayim",
+      "edition": "original",
+      "versionTitle": "Maginei Eretz: Shulchan Aruch Orach Chaim, Lemberg, 1893",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH002084080",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Shulchan%20Arukh%2C%20Orach%20Chayim/Hebrew/Maginei%20Eretz%20Shulchan%20Aruch%20Orach%20Chaim%2C%20Lemberg%2C%201893.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Orach_Chayim-original.json",
+      "sha256": "9fa623ee76cb12a939f7845025618f66fdb9aeacb0d46f9e7f1ab9be9fd5a4bc"
+    },
+    {
+      "work": "Shulchan Arukh, Orach Chayim",
+      "edition": "english",
+      "versionTitle": "Sefaria Community Translation",
+      "language": "en",
+      "license": "CC0",
+      "versionSource": "https://www.sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Shulchan%20Arukh%2C%20Orach%20Chayim/English/Sefaria%20Community%20Translation.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Orach_Chayim-english.json",
+      "sha256": "12a589f03f87cf23e4ea492fd98798cb9e9503b5522be5fac41cd66b6659bccf"
+    },
+    {
+      "work": "Shulchan Arukh, Yoreh De'ah",
+      "edition": "original",
+      "versionTitle": "Ashlei Ravrevei: Shulchan Aruch Yoreh Deah, Lemberg, 1888",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH002097765",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/Hebrew/Ashlei%20Ravrevei%20Shulchan%20Aruch%20Yoreh%20Deah%2C%20Lemberg%2C%201888.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Yoreh_De'ah-original.json",
+      "sha256": "9f6462d1385b933fbbd139fe196790f2fdd134cd827e9d1aa414b7d518d9a8f7"
+    },
+    {
+      "work": "Shulchan Arukh, Yoreh De'ah",
+      "edition": "english",
+      "versionTitle": "Sefaria Community Translation",
+      "language": "en",
+      "license": "CC0",
+      "versionSource": "https://www.sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Shulchan%20Arukh%2C%20Yoreh%20De%27ah/English/Sefaria%20Community%20Translation.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Yoreh_De'ah-english.json",
+      "sha256": "55a7081ff397cd0234c94dc44dd0e4df132d0e5ee1710f544f81491efe45757c"
+    },
+    {
+      "work": "Shulchan Arukh, Even HaEzer",
+      "edition": "original",
+      "versionTitle": "Apei Ravrevei: Shulchan Aruch Even HaEzer, Lemberg, 1886",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH002097680",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Shulchan%20Arukh%2C%20Even%20HaEzer/Hebrew/Apei%20Ravrevei%20Shulchan%20Aruch%20Even%20HaEzer%2C%20Lemberg%2C%201886.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Even_HaEzer-original.json",
+      "sha256": "95e038cf634e310d0805aa309ff43a482c9b20a858db1e1912f67630d1779e30"
+    },
+    {
+      "work": "Shulchan Arukh, Even HaEzer",
+      "edition": "english",
+      "versionTitle": "Sefaria Community Translation",
+      "language": "en",
+      "license": "CC0",
+      "versionSource": "https://www.sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Shulchan%20Arukh%2C%20Even%20HaEzer/English/Sefaria%20Community%20Translation.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Even_HaEzer-english.json",
+      "sha256": "5dd927cffb23cb353624a5cf386fac87d4f1c078be7778f8e4d5fad6a94c835d"
+    },
+    {
+      "work": "Shulchan Arukh, Choshen Mishpat",
+      "edition": "original",
+      "versionTitle": "Shulhan Arukh, Hoshen ha-Mishpat, Lemberg, 1898",
+      "language": "he",
+      "license": "Public Domain",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH002097773",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Shulchan%20Arukh%2C%20Choshen%20Mishpat/Hebrew/Shulhan%20Arukh%2C%20Hoshen%20ha-Mishpat%2C%20Lemberg%2C%201898.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Choshen_Mishpat-original.json",
+      "sha256": "e51ffc3bdb303f24d99853fcec942473977876f2e9009b74c56219ab75264152"
+    },
+    {
+      "work": "Shulchan Arukh, Choshen Mishpat",
+      "edition": "english",
+      "versionTitle": "Sefaria Community Translation",
+      "language": "en",
+      "license": "CC0",
+      "versionSource": "https://www.sefaria.org",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Shulchan%20Arukh%2C%20Choshen%20Mishpat/English/Sefaria%20Community%20Translation.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Choshen_Mishpat-english.json",
+      "sha256": "5d009bd4ba8d7db5ac4a5cbed64f64e5feb0cfcbd173c29f7a58630bb4a13ab2"
+    }
+  ],
+  "schemas": [
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Shulchan_Arukh%2C_Orach_Chayim.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Orach_Chayim-schema.json",
+      "sha256": "e94a2ff163e5ba194f1223d0cdc9812554f4d0df337f5d0d4a86f6d4a91dd1b6"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Shulchan_Arukh%2C_Yoreh_De%27ah.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Yoreh_De'ah-schema.json",
+      "sha256": "f456bce8731181ea3356e25dafe8be5c6128b42bf6fb37c429e06dabb4c74b14"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Shulchan_Arukh%2C_Even_HaEzer.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Even_HaEzer-schema.json",
+      "sha256": "8c5fa35b5676dd4242686b67708fc355f7c9c32b8897da77fedbb89ab16bd2d4"
+    },
+    {
+      "url": "https://storage.googleapis.com/sefaria-export/schemas/Shulchan_Arukh%2C_Choshen_Mishpat.json",
+      "file": "data/jewish-source/shulchan/Shulchan_Arukh,_Choshen_Mishpat-schema.json",
+      "sha256": "03cf4bf88742aca2248d67db5bec8dd369acc81d4bdb595e70eb625d037138a6"
+    }
+  ],
+  "coverage": {
+    "Shulchan Arukh, Orach Chayim": {
+      "original": 4171,
+      "english": 3732,
+      "segments": 4172
+    },
+    "Shulchan Arukh, Yoreh De'ah": {
+      "original": 3701,
+      "english": 892,
+      "segments": 3702
+    },
+    "Shulchan Arukh, Even HaEzer": {
+      "original": 1988,
+      "english": 1900,
+      "segments": 1988
+    },
+    "Shulchan Arukh, Choshen Mishpat": {
+      "original": 3692,
+      "english": 425,
+      "segments": 3693
+    }
+  },
+  "works": 4,
+  "books": 6,
+  "transformations": [
+    "HTML formatting flattened for terminal display; source HTML retained.",
+    "Inline edition footnotes separated from main text; original edition text is never machine-translated.",
+    "Native references retained; missing translations are represented as gaps."
+  ]
+}
