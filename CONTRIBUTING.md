@@ -1,5 +1,7 @@
 # Contributing
 
+Start with the [local setup and data guide](docs/setup.md); coding agents should read [AGENTS.md](AGENTS.md).
+
 Use Linux, Bun 1.4.4 and Python 3.12+; install FriBidi for Hebrew display. Start with `bun install --frozen-lockfile`, `bun run check:release`, and `bun test`. Source-only tests need no downloaded corpus or Codex account. Corpus tests skip clearly when their data is missing; `bun run test:integration --all` requires every library and fails if prerequisites are absent.
 
 Before changing data or reference handling, run the affected imports in a separate checkout and validate source counts, checksums, native references, translation gaps, search results and citation navigation. Keep editions named and separate. Do not fill translation gaps with generated text or silently change canonical numbering. Do not update a provenance checksum solely to make a failing import pass.
